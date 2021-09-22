@@ -1,0 +1,6790 @@
+Script started on Wed 22 Sep 2021 12:52:16 PM CDT
+]0;klambert@hpc-class:~/clmystery[?1034h[klambert@hpc-class clmystery]$ ls
+cheatsheet.md   hint1  hint4  hint7         LICENSE.md  README.md
+cheatsheet.pdf  hint2  hint5  hint8         log.log     sherlock.log
+encoded         hint3  hint6  instructions  [0m[01;34mmystery[0m     solution
+]0;klambert@hpc-class:~/clmystery[klambert@hpc-class clmystery]$ cd mystery/
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls
+crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ less people
+[?1049h[?1h=***************
+To go to the street someone lives on, use the file
+for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number
+they live on from the file.  If a line looks like gibberish, you're at the wrong  house.
+***************
+
+NAME    GENDER  AGE     ADDRESS
+Alicia Fuentes  F       48      Walton Street, line 433
+Jo-Ting Losev   F       46      Hemenway Street, line 390
+Elena Edmonds   F       58      Elmwood Avenue, line 123
+Naydene Cabral  F       46      Winthrop Street, line 454
+Dato Rosengren  M       22      Mystic Street, line 477
+Fernanda Serrano        F       37      Redlands Road, line 392
+Emiliano Wenk   M       90      Paulding Street, line 490
+Larry Lapin     M       71      Atwill Road, line 298
+Jakub Gondos    M       61      Mitchell Street, line 187
+Derek Kazanin   M       55      Tennis Road, line 440
+Jens Tuimalealiifano    M       83      Rockwood Street, line 205
+Nikola Kadhi    M       75      Glenville Avenue, line 226
+Takayuki Dundar M       27      Cornelia Street, line 61
+Njisane Arkhipova       M       73      Charles River Avenue, line 459
+[7mpeople[27m[K[KRauli Schlanger M       18      Dexter Street, line 432
+Vera Frangilli  F       48      Hill Top Street, line 25
+Marilyn Dominguez       F       43      Celia Road, line 67
+Reza Scown      M       27      Southbound Frontage Road, line 228
+Ahmed Sorokina  M       28      Long Avenue, line 427
+Robert Marennikova      M       78      Parkson Street, line 24
+Esthera Koschischek     F       23      Willowwood Street, line 248
+Yunhee Hatsko   F       38      Leniston Street, line 25
+Anna Choi       F       80      Maybury Street, line 180
+Jingjing Gray   F       88      Anselm Terrace, line 248
+Jaroslaw Kalina M       65      Greenmount Place, line 110
+Daniella Subschinski    F       65      Spring Valley Road, line 336
+Jonathan Niit   M       38      Cazenove Street, line 276
+Kelly Gemmell   F       24      Johnson Avenue, line 219
+Todor Tong      M       72      Newhall Place, line 16
+Hamish Drabenia M       84      Cheshire Street, line 174
+Petr Smith      M       64      Townsend Street, line 131
+Hedvig Alameri  F       58      Tobin Bridge, line 129
+Courtney Bischof        F       39      Sharp Street, line 472
+Johannes Willis M       56      Delore Circle, line 474
+Zhaoxu Cordeiro M       82      Haverhill Street, line 424
+Aleks Pirghie   M       81      Campanella Way, line 399
+Robert Ryan     M       16      Washburn Avenue, line 247
+:[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls [K[K[Kless crimescene
+[?1049h[?1h=*******
+Crime Scene Report #262227712435
+********
+
+'Nor I,' said the March Hare.
+
+Alice sighed wearily. 'I think you might do something better with the
+time,' she said, 'than waste it in asking riddles that have no answers.'
+
+'If you knew Time as well as I do,' said the Hatter, 'you wouldn't talk
+about wasting IT. It's HIM.'
+
+
+
+*******
+Crime Scene Report #142164895957
+********
+The Hatter was the first to break the silence. 'What day of the month
+is it?' he said, turning to Alice: he had taken his watch out of his
+pocket, and was looking at it uneasily, shaking it every now and then,
+and holding it to his ear.
+
+Alice considered a little, and then said 'The fourth.'
+[7mcrimescene[27m[K[K
+'Two days wrong!' sighed the Hatter. 'I told you butter wouldn't suit
+the works!' he added looking angrily at the March Hare.
+
+
+
+*******
+Crime Scene Report #173979704051
+********
+As she said these words her foot slipped, and in another moment, splash!
+she was up to her chin in salt water. Her first idea was that she
+had somehow fallen into the sea, 'and in that case I can go back by
+railway,' she said to herself. (Alice had been to the seaside once in
+her life, and had come to the general conclusion, that wherever you go
+to on the English coast you find a number of bathing machines in the
+sea, some children digging in the sand with wooden spades, then a row
+of lodging houses, and behind them a railway station.) However, she soon
+made out that she was in the pool of tears which she had wept when she
+was nine feet high.
+
+'I wish I hadn't cried so much!' said Alice, as she swam about, trying
+
+
+:[K[K*******
+Crime Scene Report #254795891569
+********
+
+'It's a mineral, I THINK,' said Alice.
+
+'Of course it is,' said the Duchess, who seemed ready to agree to
+everything that Alice said; 'there's a large mustard-mine near here. And
+
+
+*******
+Crime Scene Report #860885616690
+********
+'You can't think how glad I am to see you again, you dear old thing!'
+said the Duchess, as she tucked her arm affectionately into Alice's, and
+they walked off together.
+
+Alice was very glad to find her in such a pleasant temper, and thought
+to herself that perhaps it was only the pepper that had made her so
+savage when they met in the kitchen.
+
+'When I'M a Duchess,' she said to herself, (not in a very hopeful tone
+though), 'I won't have any pepper in my kitchen AT ALL. Soup does very
+:[K[Kwell without--Maybe it's always pepper that makes people hot-tempered,'
+she went on, very much pleased at having found out a new kind of
+
+
+*******
+Crime Scene Report #614802695551
+********
+
+'So they were,' said the Dormouse; 'VERY ill.'
+
+Alice tried to fancy to herself what such an extraordinary ways of
+living would be like, but it puzzled her too much, so she went on: 'But
+
+
+*******
+Crime Scene Report #811202538618
+********
+Now, if you only kept on good terms with him, he'd do almost anything
+you liked with the clock. For instance, suppose it were nine o'clock in
+the morning, just time to begin lessons: you'd only have to whisper a
+hint to Time, and round goes the clock in a twinkling! Half-past one,
+time for dinner!'
+
+:[K[K('I only wish it was,' the March Hare said to itself in a whisper.)
+
+'That would be grand, certainly,' said Alice thoughtfully: 'but then--I
+
+
+*******
+Crime Scene Report #862463771000
+********
+
+Alice took up the fan and gloves, and, as the hall was very hot, she
+kept fanning herself all the time she went on talking: 'Dear, dear! How
+queer everything is to-day! And yesterday things went on just as usual.
+I wonder if I've been changed in the night? Let me think: was I the
+same when I got up this morning? I almost think I can remember feeling a
+little different. But if I'm not the same, the next question is, Who
+in the world am I? Ah, THAT'S the great puzzle!' And she began thinking
+
+
+*******
+Crime Scene Report #179197452355
+********
+egg!'
+
+:[K[K'I HAVE tasted eggs, certainly,' said Alice, who was a very truthful
+child; 'but little girls eat eggs quite as much as serpents do, you
+know.'
+
+'I don't believe it,' said the Pigeon; 'but if they do, why then they're
+a kind of serpent, that's all I can say.'
+
+This was such a new idea to Alice, that she was quite silent for a
+minute or two, which gave the Pigeon the opportunity of adding, 'You're
+looking for eggs, I know THAT well enough; and what does it matter to me
+
+
+*******
+Crime Scene Report #697023434405
+********
+questions of eating and drinking.
+
+'They lived on treacle,' said the Dormouse, after thinking a minute or
+two.
+
+'They couldn't have done that, you know,' Alice gently remarked; 'they'd
+have been ill.'
+
+:[K[H[2J[H'I HAVE tasted eggs, certainly,' said Alice, who was a very truthful
+child; 'but little girls eat eggs quite as much as serpents do, you
+know.'
+
+'I don't believe it,' said the Pigeon; 'but if they do, why then they're
+a kind of serpent, that's all I can say.'
+
+This was such a new idea to Alice, that she was quite silent for a
+minute or two, which gave the Pigeon the opportunity of adding, 'You're
+looking for eggs, I know THAT well enough; and what does it matter to me
+
+
+*******
+Crime Scene Report #697023434405
+********
+questions of eating and drinking.
+
+'They lived on treacle,' said the Dormouse, after thinking a minute or
+two.
+
+'They couldn't have done that, you know,' Alice gently remarked; 'they'd
+have been ill.'
+
+
+*******
+Crime Scene Report #992739006486
+********
+First it marked out a race-course, in a sort of circle, ('the exact
+shape doesn't matter,' it said,) and then all the party were placed
+along the course, here and there. There was no 'One, two, three, and
+away,' but they began running when they liked, and left off when they
+liked, so that it was not easy to know when the race was over. However,
+when they had been running half an hour or so, and were quite dry again,
+the Dodo suddenly called out 'The race is over!' and they all crowded
+round it, panting, and asking, 'But who has won?'
+
+This question the Dodo could not answer without a great deal of thought,
+
+
+*******
+Crime Scene Report #397527871381
+********
+time,' she said, 'than waste it in asking riddles that have no answers.'
+:[K[K
+'If you knew Time as well as I do,' said the Hatter, 'you wouldn't talk
+about wasting IT. It's HIM.'
+
+'I don't know what you mean,' said Alice.
+
+'Of course you don't!' the Hatter said, tossing his head contemptuously.
+'I dare say you never even spoke to Time!'
+
+
+*******
+Crime Scene Report #346249331634
+********
+'But I don't want to go among mad people,' Alice remarked.
+
+'Oh, you can't help that,' said the Cat: 'we're all mad here. I'm mad.
+You're mad.'
+
+'How do you know I'm mad?' said Alice.
+
+'You must be,' said the Cat, 'or you wouldn't have come here.'
+
+Alice didn't think that proved it at all; however, she went on 'And how
+do you know that you're mad?'
+
+
+*******
+Crime Scene Report #053696097183
+********
+our house I should like to show you! A little bright-eyed terrier, you
+know, with oh, such long curly brown hair! And it'll fetch things when
+you throw them, and it'll sit up and beg for its dinner, and all sorts
+of things--I can't remember half of them--and it belongs to a farmer,
+you know, and he says it's so useful, it's worth a hundred pounds! He
+
+
+*******
+Crime Scene Report #466800875527
+********
+bats eat cats?' for, you see, as she couldn't answer either question,
+it didn't much matter which way she put it. She felt that she was dozing
+off, and had just begun to dream that she was walking hand in hand with
+Dinah, and saying to her very earnestly, 'Now, Dinah, tell me the truth:
+:[K[Kdid you ever eat a bat?' when suddenly, thump! thump! down she came upon
+a heap of sticks and dry leaves, and the fall was over.
+
+
+*******
+Crime Scene Report #562933661335
+********
+thing!' said the Queen, 'and take this young lady to see the Mock
+Turtle, and to hear his history. I must go back and see after some
+executions I have ordered'; and she walked off, leaving Alice alone with
+the Gryphon. Alice did not quite like the look of the creature, but on
+the whole she thought it would be quite as safe to stay with it as to go
+after that savage Queen: so she waited.
+
+The Gryphon sat up and rubbed its eyes: then it watched the Queen till
+she was out of sight: then it chuckled. 'What fun!' said the Gryphon,
+half to itself, half to Alice.
+
+
+*******
+Crime Scene Report #903294755758
+********
+'I couldn't afford to learn it.' said the Mock Turtle with a sigh. 'I
+only took the regular course.'
+
+'What was that?' inquired Alice.
+
+'Reeling and Writhing, of course, to begin with,' the Mock Turtle
+replied; 'and then the different branches of Arithmetic--Ambition,
+Distraction, Uglification, and Derision.'
+
+
+*******
+Crime Scene Report #997109006906
+********
+
+'What I was going to say,' said the Dodo in an offended tone, 'was, that
+the best thing to get us dry would be a Caucus-race.'
+
+'What IS a Caucus-race?' said Alice; not that she wanted much to know,
+but the Dodo had paused as if it thought that SOMEBODY ought to speak,
+and no one else seemed inclined to say anything.
+
+:[K[K'Why,' said the Dodo, 'the best way to explain it is to do it.' (And, as
+you might like to try the thing yourself, some winter day, I will tell
+you how the Dodo managed it.)
+
+
+
+*******
+Crime Scene Report #766933431086
+********
+'Well!' thought Alice to herself, 'after such a fall as this, I shall
+think nothing of tumbling down stairs! How brave they'll all think me at
+home! Why, I wouldn't say anything about it, even if I fell off the top
+of the house!' (Which was very likely true.)
+
+Down, down, down. Would the fall NEVER come to an end! 'I wonder how
+many miles I've fallen by this time?' she said aloud. 'I must be getting
+somewhere near the centre of the earth. Let me see: that would be four
+thousand miles down, I think--' (for, you see, Alice had learnt several
+things of this sort in her lessons in the schoolroom, and though this
+was not a VERY good opportunity for showing off her knowledge, as there
+was no one to listen to her, still it was good practice to say it over)
+
+
+*******
+Crime Scene Report #278151495958
+********
+           death."'
+
+
+'You are not attending!' said the Mouse to Alice severely. 'What are you
+thinking of?'
+
+'I beg your pardon,' said Alice very humbly: 'you had got to the fifth
+
+
+*******
+Crime Scene Report #081085963628
+********
+
+Luckily for Alice, the little magic bottle had now had its full effect,
+and she grew no larger: still it was very uncomfortable, and, as there
+seemed to be no sort of chance of her ever getting out of the room
+again, no wonder she felt unhappy.
+:[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd ..
+]0;klambert@hpc-class:~/clmystery[klambert@hpc-class clmystery]$ less instructions 
+[?1049h[?1h=.OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
+OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
+OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
+OOOOO'' aaa@@@@@@@@@@@@@@@@@@@@"""                   """""""""@@aaaa `OOOO
+OOOOO,""""@@@@@@@@@@@@@@""""                                     a@"" OOOA
+OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
+OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
+OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
+OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
+OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
+OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
+OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
+OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
+OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
+OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
+OOOOOOOOOOOOOOOOOOO@                               aaaaaaa       @@',OOOOn
+OOOOOOOOOOOOOOOOOOO@                        aaa@@@@@@@@""        @@ OOOOOi
+OOOOOOOOOO~~ aaaaaa"a                 aaa@@@@@@@@@@""            @@ OOOOOx
+OOOOOO aaaa@"""""""" ""            @@@@@@@@@@@@""               @@@|`OOOO'
+OOOOOOOo`@@a                  aa@@  @@@@@@@""         a@        @@@@ OOOO9
+OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
+`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
+
+
+There's been a murder in Terminal City, and TCPD needs your help.
+
+To figure out whodunit, go to the 'mystery' subdirectory and start working from there.
+
+You'll want to start by collecting all the clues at the crime scene (the 'crimescene' file).
+
+The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports.
+
+Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
+
+If you get stuck, open one of the hint files (from the CL, type 'cat hint1', 'cat hint2', etc.).
+
+To check your answer or find out the solution, open the file 'solution' (from the CL, type 'cat solution').
+
+To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+
+Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+[7minstructions (END)[27m[K[K[K[7m(END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery[klambert@hpc-class clmystery]$ 
+]0;klambert@hpc-class:~/clmystery[klambert@hpc-class clmystery]$ cd mystery/
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep crimescene [K[K[K[K[K[K[K[K[K[K[K[K -C 5l[K "CLUE" crimescene 
+
+
+*******
+Crime Scene Report #912464709392
+********
+[01;31m[KCLUE[m[K: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+
+
+*******
+Crime Scene Report #173568406221
+********
+[36m[K--[m[K
+
+
+*******
+Crime Scene Report #028615332953
+********
+[01;31m[KCLUE[m[K: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+
+
+*******
+Crime Scene Report #566637512234
+********
+[36m[K--[m[K
+
+
+*******
+Crime Scene Report #575776622208
+********
+[01;31m[KCLUE[m[K: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+*******
+Crime Scene Report #990314688882
+********
+gardeners instantly jumped up, and began bowing to the King, the Queen,
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$  [K[H[2J[klambert@hpc-class mystery]$ cd[K[Kcd interviews/
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ ls
+interview-000296    interview-144873    interview-27042476  interview-3609204   interview-499096    interview-638121    interview-7580872   interview-901645
+interview-00448418  interview-14590717  interview-27504937  interview-36398447  interview-50168425  interview-6417794   interview-77014856  interview-90394637
+interview-00502304  interview-147283    interview-275706    interview-364735    interview-50291987  interview-645385    interview-770439    interview-904020
+interview-005702    interview-15187437  interview-279087    interview-36527398  interview-504687    interview-6553472   interview-77135281  interview-907126
+interview-00617019  interview-15354942  interview-280877    interview-376115    interview-509105    interview-65792229  interview-7791374   interview-9074626
+interview-00805135  interview-1536668   interview-2834518   interview-37747405  interview-5143029   interview-659803    interview-780255    interview-911451
+interview-016463    interview-155049    interview-284560    interview-3804339   interview-514793    interview-66101490  interview-7863761   interview-91673757
+interview-020337    interview-1578206   interview-2846076   interview-3824641   interview-52280505  interview-66282920  interview-789564    interview-917210
+interview-022751    interview-159848    interview-289524    interview-38299069  interview-528044    interview-6643191   interview-791289    interview-9185205
+interview-0234126   interview-16098538  interview-290346    interview-3871205   interview-529706    interview-67279454  interview-79360358  interview-920304
+interview-02422821  interview-1642421   interview-291440    interview-3871242   interview-53318557  interview-673985    interview-79411932  interview-92391023
+interview-0251720   interview-1643440   interview-2922290   interview-38899905  interview-535181    interview-676473    interview-794525    interview-92670500
+interview-03098229  interview-16889008  interview-29316965  interview-3917097   interview-5372865   interview-67790846  interview-7959148   interview-927642
+interview-0315125   interview-17248453  interview-2939888   interview-391811    interview-538900    interview-680549    interview-796439    interview-9332386
+interview-03316077  interview-17343208  interview-296128    interview-39481114  interview-54026669  interview-6808205   interview-79667499  interview-9346061
+interview-034070    interview-174898    interview-29680692  interview-39825862  interview-541518    interview-68195573  interview-79935965  interview-93473333
+interview-0349327   interview-1767435   interview-29741223  interview-40534453  interview-5455315   interview-68488577  interview-7998181   interview-93696502
+interview-04393507  interview-17827186  interview-2976680   interview-40610944  interview-54619323  interview-68764140  interview-8095917   interview-938991
+interview-044492    interview-179719    interview-29838622  interview-409731    interview-54851634  interview-6884359   interview-809922    interview-9408565
+interview-0462097   interview-1811770   interview-2995681   interview-41553314  interview-549055    interview-6894000   interview-812725    interview-94126412
+interview-049721    interview-18193261  interview-301018    interview-416243    interview-55382746  interview-69170457  interview-81443363  interview-9437737
+interview-05297663  interview-1823688   interview-30259493  interview-41814745  interview-55410365  interview-6933068   interview-822576    interview-944493
+interview-06032377  interview-18270219  interview-3049045   interview-4204949   interview-55435298  interview-699607    interview-8245680   interview-9446528
+interview-0613334   interview-18441251  interview-305694    interview-42161907  interview-55477243  interview-70067280  interview-825165    interview-9501580
+interview-066291    interview-1850922   interview-305949    interview-4223536   interview-555536    interview-70199425  interview-82705993  interview-95095182
+interview-071537    interview-1857368   interview-306616    interview-4225866   interview-5581158   interview-703831    interview-831512    interview-95601730
+interview-0732631   interview-1906958   interview-3074127   interview-42396365  interview-55841398  interview-704443    interview-833367    interview-9618669
+interview-07497003  interview-191206    interview-3099757   interview-4262657   interview-55984022  interview-70458099  interview-838259    interview-9620713
+interview-0768255   interview-19300543  interview-312546    interview-42934869  interview-565396    interview-7046684   interview-8387710   interview-9651888
+interview-092423    interview-1933118   interview-3128999   interview-4299898   interview-566707    interview-7066082   interview-8402388   interview-9666149
+interview-0953437   interview-19577850  interview-3140662   interview-4335306   interview-56784802  interview-706620    interview-8421696   interview-97043057
+interview-096267    interview-2058907   interview-31635890  interview-4366523   interview-56892213  interview-707438    interview-8464899   interview-9709892
+interview-102490    interview-210355    interview-3201508   interview-44533008  interview-57236791  interview-708943    interview-84688694  interview-9711852
+interview-109118    interview-218131    interview-322305    interview-4463090   interview-5739404   interview-7103823   interview-849256    interview-9712946
+interview-1108561   interview-221039    interview-32365018  interview-448086    interview-5766907   interview-71186817  interview-85262552  interview-9728756
+interview-114661    interview-223913    interview-324389    interview-45615686  interview-5774468   interview-71226767  interview-8531248   interview-97393699
+interview-11495001  interview-2277882   interview-325611    interview-457117    interview-5782759   interview-71298441  interview-856221    interview-97409610
+interview-116803    interview-229443    interview-32639981  interview-457451    interview-579105    interview-7180973   interview-8586380   interview-980963
+interview-11705111  interview-23167806  interview-32712166  interview-466195    interview-5835471   interview-71993338  interview-861780    interview-982013
+interview-11783660  interview-2326746   interview-331178    interview-4673074   interview-586668    interview-720268    interview-862173    interview-9824821
+interview-11817172  interview-23371263  interview-332596    interview-46773428  interview-58910793  interview-7254073   interview-862717    interview-98912259
+interview-1186827   interview-233800    interview-33399976  interview-47246024  interview-5905106   interview-728181    interview-8631232   interview-9901455
+interview-1205060   interview-2415821   interview-340396    interview-4735823   interview-591273    interview-730123    interview-86395001  interview-9912172
+interview-1250176   interview-243703    interview-34041151  interview-4765278   interview-5993978   interview-73035802  interview-865918    interview-992072
+interview-125204    interview-2481877   interview-342393    interview-476744    interview-60081985  interview-7305678   interview-867999    interview-99643550
+interview-125271    interview-250112    interview-34359897  interview-478217    interview-604403    interview-73585672  interview-8700943   interview-9969223
+interview-1269181   interview-253705    interview-344331    interview-48088300  interview-608607    interview-737609    interview-87126591  interview-999372
+interview-1310392   interview-255531    interview-34690644  interview-48148020  interview-6093093   interview-7422077   interview-871877
+interview-13768464  interview-25582311  interview-347303    interview-483817    interview-618764    interview-74225310  interview-879569
+interview-13889608  interview-25834905  interview-351963    interview-485229    interview-6203192   interview-7469675   interview-8819490
+interview-13920860  interview-259909    interview-353218    interview-4950099   interview-628618    interview-7541406   interview-891720
+interview-1395414   interview-2601508   interview-353467    interview-4961376   interview-63308519  interview-75434722  interview-896668
+interview-141030    interview-26373485  interview-354262    interview-496772    interview-637657    interview-755037    interview-9004767
+interview-14153840  interview-2642139   interview-3588302   interview-498331    interview-637928    interview-75633580  interview-901603
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ less people
+people: No such file or directory
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ cd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ less people
+[?1049h[?1h=***************
+To go to the street someone lives on, use the file
+for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number
+they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+***************
+
+NAME    GENDER  AGE     ADDRESS
+Alicia Fuentes  F       48      Walton Street, line 433
+Jo-Ting Losev   F       46      Hemenway Street, line 390
+Elena Edmonds   F       58      Elmwood Avenue, line 123
+Naydene Cabral  F       46      Winthrop Street, line 454
+Dato Rosengren  M       22      Mystic Street, line 477
+Fernanda Serrano        F       37      Redlands Road, line 392
+Emiliano Wenk   M       90      Paulding Street, line 490
+Larry Lapin     M       71      Atwill Road, line 298
+Jakub Gondos    M       61      Mitchell Street, line 187
+Derek Kazanin   M       55      Tennis Road, line 440
+Jens Tuimalealiifano    M       83      Rockwood Street, line 205
+Nikola Kadhi    M       75      Glenville Avenue, line 226
+Takayuki Dundar M       27      Cornelia Street, line 61
+Njisane Arkhipova       M       73      Charles River Avenue, line 459
+Rauli Schlanger M       18      Dexter Street, line 432
+Vera Frangilli  F       48      Hill Top Street, line 25
+Marilyn Dominguez       F       43      Celia Road, line 67
+Reza Scown      M       27      Southbound Frontage Road, line 228
+Ahmed Sorokina  M       28      Long Avenue, line 427
+Robert Marennikova      M       78      Parkson Street, line 24
+Esthera Koschischek     F       23      Willowwood Street, line 248
+Yunhee Hatsko   F       38      Leniston Street, line 25
+Anna Choi       F       80      Maybury Street, line 180
+Jingjing Gray   F       88      Anselm Terrace, line 248
+Jaroslaw Kalina M       65      Greenmount Place, line 110
+Daniella Subschinski    F       65      Spring Valley Road, line 336
+Jonathan Niit   M       38      Cazenove Street, line 276
+Kelly Gemmell   F       24      Johnson Avenue, line 219
+Todor Tong      M       72      Newhall Place, line 16
+Hamish Drabenia M       84      Cheshire Street, line 174
+Petr Smith      M       64      Townsend Street, line 131
+Hedvig Alameri  F       58      Tobin Bridge, line 129
+Courtney Bischof        F       39      Sharp Street, line 472
+Johannes Willis M       56      Delore Circle, line 474
+Zhaoxu Cordeiro M       82      Haverhill Street, line 424
+[7mpeople[27m[K[KAleks Pirghie   M       81      Campanella Way, line 399
+Robert Ryan     M       16      Washburn Avenue, line 247
+Zhizhi Kehoe    M       83      Ramsdell Avenue, line 279
+Suyoung Savsek  M       16      Flavia Street, line 400
+Aman Schulte    M       55      Kelley Circle, line 13
+Bilel Inglis    M       36      Pond View Avenue, line 283
+Amel Kim        M       48      Wayne Street, line 279
+Beatriz Nooijer F       36      Grove Square, line 76
+Tumurkhuleg Hernandez   M       63      Commodore Terrace, line 37
+Alexa Patrick   F       37      Trinity Place, line 82
+Bartlomiej Marroquin    M       45      Hillcroft Road, line 348
+Ryan Prasad     M       29      Eugenia Road, line 110
+Maialen Uriarte F       16      Ford Street, line 361
+Boon Cortes     M       60      Woodward Park Street, line 246
+Deniz Almazam   M       25      Eagle Square, line 117
+Lok Poglajen    F       90      Farnham Street, line 56
+Charline Chen   F       27      Traymore Street, line 86
+Alexander Herrera       M       33      Holyoke Place, line 360
+Jianbo Megannem M       26      Westminster Avenue, line 327
+Peter Ochoa     M       53      Tennis Road, line 326
+Alberto Bauza   M       86      Waterhouse Street, line 310
+Tanoh Mehari    F       39      Edgerly Place, line 432
+Phillipp Al-Mashhadani  M       68      Lila Road, line 451
+Mohanad Raudaschl       M       89      Croftland Avenue, line 454
+Gemma Gaiduchik F       89      Franklin Park Service Road, line 381
+Adam Houssaye   M       56      Sunnyside Street, line 430
+Mariko Shimamoto        F       52      Oswald Street, line 280
+Krista Coci     F       44      Randlett Place, line 270
+Alexey Perilli  M       90      Merrill Avenue, line 11
+Akvile Saedeleer        F       65      Wall Street, line 350
+Bernard Tamayo  M       24      Hillview Avenue, line 429
+Trey Kirkham    M       83      Marmion Street, line 135
+Chia-En Miley   F       53      Blaine Street, line 431
+Vincent Girke   M       59      Brookford Street, line 496
+Aselefech Gkountoulas   F       35      Grant Place, line 159
+Mateusz Metu    M       20      Bradlee Court, line 225
+Sebastien Halmuratov    M       32      Stevens Court, line 100
+Marouen Tatari  M       80      Henderson Avenue, line 77
+Btissam Brunstrom       F       74      Seaverns Avenue, line 370
+Sinead Colle    F       48      Hillcroft Road, line 22
+Aries Coston    M       31      Doone Avenue, line 401
+Mariya Gibson   F       90      Plainfield Street, line 53
+Marina Tchuanyo F       19      Causeway Street, line 399
+:[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ 
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep [K "Annabel" people 
+[01;31m[KAnnabel[m[K Sun	F	26	Hart Place, line 40
+Oluwasegun [01;31m[KAnnabel[m[K	M	37	Mattapan Street, line 173
+[01;31m[KAnnabel[m[K Church	F	38	Buckingham Place, line 179
+[01;31m[KAnnabel[m[K Fuglsang	M	40	Haley Street, line 176
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls
+crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd[K[Kless poe[K[Keople
+[?1049h[?1h=***************
+To go to the street someone lives on, use the file
+for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number
+they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+***************
+
+NAME    GENDER  AGE     ADDRESS
+Alicia Fuentes  F       48      Walton Street, line 433
+Jo-Ting Losev   F       46      Hemenway Street, line 390
+Elena Edmonds   F       58      Elmwood Avenue, line 123
+Naydene Cabral  F       46      Winthrop Street, line 454
+Dato Rosengren  M       22      Mystic Street, line 477
+Fernanda Serrano        F       37      Redlands Road, line 392
+Emiliano Wenk   M       90      Paulding Street, line 490
+Larry Lapin     M       71      Atwill Road, line 298
+Jakub Gondos    M       61      Mitchell Street, line 187
+Derek Kazanin   M       55      Tennis Road, line 440
+Jens Tuimalealiifano    M       83      Rockwood Street, line 205
+Nikola Kadhi    M       75      Glenville Avenue, line 226
+Takayuki Dundar M       27      Cornelia Street, line 61
+Njisane Arkhipova       M       73      Charles River Avenue, line 459
+Rauli Schlanger M       18      Dexter Street, line 432
+Vera Frangilli  F       48      Hill Top Street, line 25
+Marilyn Dominguez       F       43      Celia Road, line 67
+Reza Scown      M       27      Southbound Frontage Road, line 228
+Ahmed Sorokina  M       28      Long Avenue, line 427
+Robert Marennikova      M       78      Parkson Street, line 24
+Esthera Koschischek     F       23      Willowwood Street, line 248
+Yunhee Hatsko   F       38      Leniston Street, line 25
+Anna Choi       F       80      Maybury Street, line 180
+Jingjing Gray   F       88      Anselm Terrace, line 248
+Jaroslaw Kalina M       65      Greenmount Place, line 110
+Daniella Subschinski    F       65      Spring Valley Road, line 336
+Jonathan Niit   M       38      Cazenove Street, line 276
+Kelly Gemmell   F       24      Johnson Avenue, line 219
+Todor Tong      M       72      Newhall Place, line 16
+Hamish Drabenia M       84      Cheshire Street, line 174
+Petr Smith      M       64      Townsend Street, line 131
+Hedvig Alameri  F       58      Tobin Bridge, line 129
+Courtney Bischof        F       39      Sharp Street, line 472
+Johannes Willis M       56      Delore Circle, line 474
+Zhaoxu Cordeiro M       82      Haverhill Street, line 424
+[7mpeople[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd streets
+]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ grep [K[K[K[K[Kcat H[K[K[K[K[Kls
+Abbot_Street        B_Street                  Embassy_Road            High_View_Avenue   Merola_Park              Randlett_Place      Theodore_Street
+Acton_Street        Buckingham_Place          Enterprise_Street       Hobart_Street      Michigan_Avenue          Rena_Street         Tolman_Street
+Addington_Road      Burwell_Road              Esther_Road             Hollander_Street   Miles_Street             Renfrew_Street      Topeka_Street
+Alaric_Street       Cadbury_Road              Estrella_Street         Hooten_Court       Moloney_Street           Richard_Avenue      Trapelo_Street
+Albany_Street       Cardinal_Medeiros_Avenue  Eugenia_Road            Hopedale_Street    Mountain_Avenue          Richardson_Street   Trident_Street
+Aldworth_Street     Cardington_Street         Fairfield_Street        Hull_Street        Mount_Ash_Road           Richmond_Street     Trinity_Place
+Alpine_Street       Causeway_Street           Faunce_Road             Island_View_Place  Mount_Ida_Road           Rivermoor_Street    Unity_Court
+Andover_Road        Cerdan_Avenue             Fayston_Street          Jacob_Street       Mozart_Street            River_Street        Vassal_Lane
+Ansonia_Road        Channel_Center_Street     Fay_Street              Jacqueline_Road    Myles_Standish_Road      Rockmere_Street     Victory_Road
+Appleton_Road       Cheverus_Road             Fessenden_Street        Jamaica_Place      Mystic_Street            Rosaria_Street      Vinton_Street
+Aramon_Street       Claremont_Park            Forestvale_Road         Jersey_Street      Nazing_Street            Rowe_Street         Vista_Street
+Arcola_Street       Claybourne_Street         Foundry_Street          Jeshurun_Street    Newcastle_Road           Rozella_Street      Waldeck_Street
+Atwood_Road         Clay_Street               Fowler_Street           John_Alden_Road    Newcroft_Circle          Saco_Street         Wallingford_Road
+Auriga_Street       Clipper_Ship_Lane         Frontage_Road           Judge_Street       New_Minton_Street        Saint_Saveur_Court  Warren_Avenue
+Avalon_Road         Cook_Street               Gerard_Street           June_Street        New_Park_Avenue          Salutation_Street   Wentworth_Street
+Ballard_Street      Cornelia_Street           Gillespies_Lane         Kearsarge_Avenue   North_Washington_Street  Sammett_Avenue      Wesley_Place
+Balmoral_Park       Corwin_Street             Glenville_Avenue        King_Place         Norton_Street            Saunders_Street     Wheatland_Avenue
+Bartlett_Avenue     Culbert_Street            Glenwood_Avenue         Kinross_Road       Oak_Hill_Avenue          Scotia_Street       Wiget_Street
+Bellevue_Avenue     Dacia_Street              Grampian_Way            Knoll_Street       Oakley_Street            Searle_Road         Wiggin_Street
+Bertson_Avenue      Dalton_Street             Granby_Street           Laban_Pratt_Road   Oak_Place                Selwyn_Street       Wilcox_Road
+Bicknell_Street     Dana_Avenue               Gray_Gardens_East       Leseur_Road        Oliva_Road               Senders_Court       Wilkinson_Park
+Blue_Hill_Avenue    Davenport_Street          Greendale_Road          Lineham_Court      Orchard_Road             Sheldon_Street      Willet_Street
+Bobolink_Street     Devine_Way                Gretter_Road            Lovis_Street       Paragon_Road             Silver_Street       Williston_Road
+Boston_Street       Dewar_Street              Groveland_Street        Lynde_Street       Peacock_Lane             Sparrow_Street      Willowdean_Avenue
+Bothwell_Road       Doane_Street              Hadassah_Way            Lynn_Street        Peter_Parley_Road        Spaulding_Street    Wilmington_Avenue
+Bournedale_Road     Dock_Street               Haley_Street            Mamelon_Circle     Pinewood_Street          Standard_Street     Winter_Street
+Boynton_Street      Dorrance_Street           Harbor_Point_Boulevard  Manila_Avenue      Plainfield_Street        Staniford_Street    Woodcliff_Street
+Brinton_Street      Dover_Street              Harding_Road            Manton_Terrace     Plain_Street             Story_Street        Wooddale_Avenue
+Bristol_Street      Dresser_Street            Hart_Place              Marney_Street      Potosi_Street            Supple_Road         Worrell_Street
+Broad_Canal_Street  Drumlin_Road              Hazel_Street            Mattapan_Street    Priscilla_Road           Taunton_Avenue      Wycliff_Avenue
+Brookdale_Street    Dunstable_Road            Hazelton_Street         May_Street         Proctor_Street           Tennyson_Street
+Brookline_Avenue    Elmore_Street             High_Road               Meadowview_Road    Quarley_Road             Terrace_Place
+]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ cat Hart[K[K[K[K-[K[K[K[K[Kless -[K+40 -N Hart_Place
+[?1049h[?1h=[K:[K44[K00[K     40 SEE INTERVIEW #47246024
+     41 jails attune subversives forewarn adept 
+     42 digests militaries greased ghostwriter mating permanently 
+     43 hie hags twit handing bailouts bird gaggle spays germinates 
+     44 unsolved dilly unholiest draftier fonts 
+     45 milieus bleak tailspins bookshelves 
+     46 sheikhdom denigrated sloppier gladder 
+     47 rooster redesigned toady outranking obviated petards 
+     48 unlearned roominess and sharing twiggy 
+     49 snooty masques polygamist unrewarding flogged 
+     50 metropolitan orange buzzer guiltless 
+     51 shone polynomial ghostliest 
+     52 spar reputing insinuates jambs hoarse hep 
+     53 establishing throatily roomer baroque shepherd 
+     54 familial laser sequins overtax mulishly unsatisfying 
+     55 eyrie pinkest infielders flukier blaster 
+     56 waterway muddies unharmed fulling 
+     57 brogan bazookas flashers prefixing nontransferable breaker 
+     58 sharpshooter writhe zigzagging misgiving renal disinterment 
+     59 poodle trite reenlists vixenish straggler bridle tentatively 
+     60 nestles surname utilize skivvies suntan disadvantaged 
+     61 murkier orbital plebeians dehumidifiers mug homemakers 
+     62 paint abstinent groggier unidentified 
+     63 promenaded pray immodest sins pekoe bruins 
+     64 sheers smuggest immensities bowman law sanitariums 
+     65 wintered offends blogging slammers allot 
+     66 fluoridation droplets swab neutralizer 
+     67 undermost umped operated molybdenum 
+     68 beholder pullout pharynges dills mastered 
+     69 bunts mannish spurning finishing denims 
+     70 rumpled boastful promos demolish assassination 
+     71 prayer asexual doings annexes 
+     72 gridiron stripped exhilarating 
+     73 glide spellbind breadths speakers 
+     74 sourer radials partitions spunkiest 
+     75 sorrels snowdrifts healthful multiplies 
+     76 tempt liveliest quahaugs variably 
+     77 neuron ingests fathomless afghans evaluated invalids 
+     78 affixing joyriding pollinated headphones 
+     79 waywardly monitor medallions blastoffs 
+     80 arise granules togae liquidizes 
+     81 best exhibiting doming suggestive hairdressers 
+     82 spoilsports belong postdated wearies setups promoter 
+[7mHart_Place[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ less +40 -N Hart_place
+Hart_place: No such file or directory
+]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ less +40 -N Hart_Place
+[?1049h[?1h=[K:[K44[K00[K     40 SEE INTERVIEW #47246024
+     41 jails attune subversives forewarn adept 
+     42 digests militaries greased ghostwriter mating permanently 
+     43 hie hags twit handing bailouts bird gaggle spays germinates 
+     44 unsolved dilly unholiest draftier fonts 
+     45 milieus bleak tailspins bookshelves 
+     46 sheikhdom denigrated sloppier gladder 
+     47 rooster redesigned toady outranking obviated petards 
+     48 unlearned roominess and sharing twiggy 
+     49 snooty masques polygamist unrewarding flogged 
+     50 metropolitan orange buzzer guiltless 
+     51 shone polynomial ghostliest 
+     52 spar reputing insinuates jambs hoarse hep 
+     53 establishing throatily roomer baroque shepherd 
+     54 familial laser sequins overtax mulishly unsatisfying 
+     55 eyrie pinkest infielders flukier blaster 
+     56 waterway muddies unharmed fulling 
+     57 brogan bazookas flashers prefixing nontransferable breaker 
+     58 sharpshooter writhe zigzagging misgiving renal disinterment 
+     59 poodle trite reenlists vixenish straggler bridle tentatively 
+     60 nestles surname utilize skivvies suntan disadvantaged 
+     61 murkier orbital plebeians dehumidifiers mug homemakers 
+     62 paint abstinent groggier unidentified 
+     63 promenaded pray immodest sins pekoe bruins 
+     64 sheers smuggest immensities bowman law sanitariums 
+     65 wintered offends blogging slammers allot 
+     66 fluoridation droplets swab neutralizer 
+     67 undermost umped operated molybdenum 
+     68 beholder pullout pharynges dills mastered 
+     69 bunts mannish spurning finishing denims 
+     70 rumpled boastful promos demolish assassination 
+     71 prayer asexual doings annexes 
+     72 gridiron stripped exhilarating 
+     73 glide spellbind breadths speakers 
+     74 sourer radials partitions spunkiest 
+     75 sorrels snowdrifts healthful multiplies 
+     76 tempt liveliest quahaugs variably 
+     77 neuron ingests fathomless afghans evaluated invalids 
+     78 affixing joyriding pollinated headphones 
+     79 waywardly monitor medallions blastoffs 
+     80 arise granules togae liquidizes 
+     81 best exhibiting doming suggestive hairdressers 
+     82 spoilsports belong postdated wearies setups promoter 
+[7mHart_Place[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ less +179 -N Buch[Kkingham_Place [K
+[?1049h[?1h=[K:[K11[K77[K99[K    179 SEE INTERVIEW #699607
+    180 festoon dispenser kidder odysseys spoons buttonholing 
+    181 arguably manse lessened logging pasts 
+    182 holler burg spotlight quadrupeds glitzy froths harmony 
+    183 bashfully blotter bushy prettifies 
+    184 invent baseness heave flunking temerity 
+    185 noose harms grebe attributively ruling 
+    186 swat reissues founts envy gingko nuzzled albums 
+    187 pippins deathblows hounds voodoo buffed 
+    188 politer volunteers overtaxed quoted bakery 
+    189 mute jasmine imbues pejorative implementing 
+    190 flooded immortal rebuking enthralling 
+    191 value bebops brasses mono toileting 
+    192 kindle ghostwriter moodier original abridging 
+    193 palliation fumbler elapsing marauders honorariums 
+    194 invaluable sauntering spuriously phalanx marry plights 
+    195 blameworthy bandages gentlemen playboys rosebuds 
+    196 norms masterminding milkier demoralization leaven disallowing 
+    197 supersedes ambivalent dearness organizational 
+    198 sinks resemble noisiest peppy feedbag 
+    199 wrapper grotesquely importunity retrograded struggle deviling 
+    200 stymie gangrene rapine nevermore digested whirling 
+    201 freshets adverbial addles amalgamating forest informants 
+    202 motorboats sadism drouths swaggering foursquare ermine 
+    203 paperweight pub pitied yearning reeving 
+    204 polish penes tortoises immaturity trellis timetabling 
+    205 horsehide putting raved meditate inertia thoughtfulness 
+    206 savaged saviours disburses tonsil 
+    207 bind ruffle mausolea enjoined whiskeys dozen tomato shortsightedness 
+    208 hampering artworks jehad manifested 
+    209 buffing peeking dart roils omission trumpery 
+    210 kippered fruited snuffled unmitigated mansards spies 
+    211 dumpster relate meadow hands boardwalk kites 
+    212 takeaways goatskins detail ogre spurs 
+    213 ruminant piggish fiesta remodel 
+    214 nonstop suggester mess wheedles denied enjoyed 
+    215 dishtowel ponytail spotlessly barman 
+    216 blindest arraignments showroom provably 
+    217 manful mandrills gangplanks glandular 
+    218 manganese futurities suffragette 
+    219 metamorphosis bounders leeriest hyperventilated waterfall 
+    220 pitiable tarragons interring drawl 
+    221 emotional reexamined revelries slipperier forwarding potentates 
+[7mBuckingham_Place[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ cd..[K[K ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls
+crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ in[K[Kcd interviews/
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ cat[K[K[Kless #47[K[K[Kinterview-47246024 
+[?1049h[?1h=Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the cafe.
+[7minterview-47246024 (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ less interview-699607 
+[?1049h[?1h=Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+
+However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+[7minterview-699607 (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ cd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd memberships/
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ ls
+AAA  AAdvantage  Costco  Delta_SkyMiles  Fitness_Galaxy  Museum_of_Bash_History  REI  Rotary_Club  TCSU_Alumni_Association  Terminal_City_Library  United_MileagePlus
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ lee[Kss AAA
+[?1049h[?1h=Courtney Yankey
+Robert Mothersille
+Akvile Saedeleer
+Daniel Hayashi
+Roel Garcia
+Vladimir Khousrof
+Maung Cammareri
+Al Shaw
+Meagen Spellerberg
+Thais Mihalache
+Habibollah Smith
+Mirna Seck
+Margaux Jung
+Snjezana Hostetler
+Hanna Shaito
+Sergey Barachet
+Amine Lin
+Thierry Ortiz
+Mirac Ariyoshi
+Tina Imboden
+Jayde Madarasz
+Yu Sakaguchi
+Kaori Donahue
+Lesley Bithell
+Celeste Lapi
+Marie-Andree Dalby
+Carlos Dyatchin
+Fabiana Boussoughou
+Laurence Zyabkina
+Gideon Kowal
+Yasser Pannecoucke
+Kayla Kim
+Felix Verbij
+Jolanta Vives
+Emanuele Hussein
+Jens Lavrentyev
+Andrea Reilly
+James Rosic
+Daria Palermo
+Maria Arismendi
+Kelly-Ann Sundberg
+Caroline Denayer
+Shuai Muttai
+[7mAAA[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ cd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ gre[K[K[Kca[K[Kless vehicles 
+[?1049h[?1h=***************
+Vehicle and owner information from the Terminal City Department of Motor Vehicles
+***************
+
+License Plate T3YUHF6
+Make: Toyota
+Color: Yellow
+Owner: Jianbo Megannem
+Height: 5'6"
+Weight: 246 lbs
+
+License Plate EZ21ECE
+Make: BMW
+Color: Gold
+Owner: Norbert Feldwehr
+Height: 5'3"
+Weight: 205 lbs
+
+License Plate CQN2TJE
+Make: Mazda
+Color: Red
+Owner: Alexandra Jokinen
+Height: 5'11"
+Weight: 227 lbs
+
+License Plate D875IMS
+Make: Cadillac
+Color: Orange
+Owner: Thi Kostadinov
+Height: 5'11"
+Weight: 198 lbs
+
+License Plate Q0SK1KP
+Make: Cadillac
+Color: Red
+Owner: Sidni Sze
+Height: 5'9"
+Weight: 199 lbs
+
+License Plate AJ0AHI2
+Make: Toyota
+Color: Yellow
+Owner: Matti Othman
+[7mvehicles[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep -C 5 "Blue|Honda" vehicles 
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep -C "BLe[K[Klue" vehicles
+grep: Blue: invalid context length argument
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep [K -C 5 "Blue" vehicles 
+Height: 5'10"
+Weight: 232 lbs
+
+License Plate A2W8QL0
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Daniele Nurmukhambetova
+Height: 6'2"
+Weight: 212 lbs
+
+License Plate 9HA8K7P
+[36m[K--[m[K
+Height: 6'0"
+Weight: 246 lbs
+
+License Plate TL7MSWL
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Adam Moreno
+Height: 6'1"
+Weight: 163 lbs
+
+License Plate FKXLG8O
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Sergey Buckman
+Height: 6'2"
+Weight: 139 lbs
+
+License Plate KDOHP59
+[36m[K--[m[K
+Height: 6'1"
+Weight: 156 lbs
+
+License Plate KH6EBNF
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Rasmus Rindom
+Height: 6'4"
+Weight: 234 lbs
+
+License Plate I3F64QC
+[36m[K--[m[K
+Height: 6'2"
+Weight: 247 lbs
+
+License Plate 184YFWT
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Fionnuala Horst
+Height: 6'1"
+Weight: 212 lbs
+
+License Plate QDD11G4
+[36m[K--[m[K
+Height: 5'11"
+Weight: 165 lbs
+
+License Plate 26Q1W9D
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Betkili Khaibulaev
+Height: 5'2"
+Weight: 142 lbs
+
+License Plate VDT84H8
+[36m[K--[m[K
+Height: 5'3"
+Weight: 250 lbs
+
+License Plate QOBSFKL
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Aurelie Kirkham
+Height: 5'11"
+Weight: 210 lbs
+
+License Plate BC0GWE5
+[36m[K--[m[K
+Height: 6'2"
+Weight: 178 lbs
+
+License Plate 9HEMA8N
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Selim Cook
+Height: 5'4"
+Weight: 201 lbs
+
+License Plate FWHCG40
+[36m[K--[m[K
+Height: 5'1"
+Weight: 173 lbs
+
+License Plate J6KXJ64
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Rosie Rapcewicz
+Height: 5'5"
+Weight: 245 lbs
+
+License Plate 8HALA7E
+[36m[K--[m[K
+Height: 6'4"
+Weight: 132 lbs
+
+License Plate YM97412
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Trey Kuczko
+Height: 6'0"
+Weight: 151 lbs
+
+License Plate GUHI3IJ
+[36m[K--[m[K
+Height: 5'2"
+Weight: 194 lbs
+
+License Plate ZUAKVGR
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Marc Atici
+Height: 5'0"
+Weight: 167 lbs
+
+License Plate 9VSJ3T9
+[36m[K--[m[K
+Height: 5'1"
+Weight: 213 lbs
+
+License Plate F9ZZY2P
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Tsilavina Wozniacki
+Height: 5'8"
+Weight: 170 lbs
+
+License Plate KJPBBX5
+[36m[K--[m[K
+Height: 5'5"
+Weight: 234 lbs
+
+License Plate M9S2ASZ
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Marilyn Dominguez
+Height: 5'5"
+Weight: 150 lbs
+
+License Plate 99WXV9X
+[36m[K--[m[K
+Height: 5'7"
+Weight: 240 lbs
+
+License Plate 1W6CIX4
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Ander Karakus
+Height: 5'3"
+Weight: 160 lbs
+
+License Plate AY3DZMI
+[36m[K--[m[K
+Height: 5'8"
+Weight: 171 lbs
+
+License Plate 9NT2LMQ
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Katerine Podlesnyy
+Height: 5'11"
+Weight: 140 lbs
+
+License Plate T5ZHFC4
+[36m[K--[m[K
+Height: 5'5"
+Weight: 162 lbs
+
+License Plate PL5W56U
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Roberto Miller
+Height: 6'3"
+Weight: 198 lbs
+
+License Plate OB6HG4X
+[36m[K--[m[K
+Height: 5'3"
+Weight: 184 lbs
+
+License Plate R9LRV2L
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Paola Tai
+Height: 5'6"
+Weight: 179 lbs
+
+License Plate FGTOKJ8
+[36m[K--[m[K
+Height: 5'3"
+Weight: 135 lbs
+
+License Plate Z70JMLU
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Ned Scozzoli
+Height: 6'1"
+Weight: 176 lbs
+
+License Plate T3HX6N5
+[36m[K--[m[K
+Height: 6'1"
+Weight: 214 lbs
+
+License Plate IVLY6E7
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Takahiro Rogers
+Height: 5'3"
+Weight: 156 lbs
+
+License Plate 10TDT3K
+[36m[K--[m[K
+Height: 5'3"
+Weight: 171 lbs
+
+License Plate 68BM9EI
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Sycerika Rabetsara
+Height: 5'1"
+Weight: 233 lbs
+
+License Plate PQNWLG0
+[36m[K--[m[K
+Height: 5'5"
+Weight: 165 lbs
+
+License Plate SGGB3MG
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Yuliya Cuesta
+Height: 6'1"
+Weight: 213 lbs
+
+License Plate 7UNAZZC
+[36m[K--[m[K
+Height: 6'3"
+Weight: 171 lbs
+
+License Plate QY43HFI
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Meiliana Berglund
+Height: 5'4"
+Weight: 181 lbs
+
+License Plate JSXFTXY
+[36m[K--[m[K
+Height: 6'2"
+Weight: 201 lbs
+
+License Plate RBOEI0L
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Marcus Orban
+Height: 5'11"
+Weight: 249 lbs
+
+License Plate VK4ZMQA
+[36m[K--[m[K
+Height: 5'10"
+Weight: 193 lbs
+
+License Plate VQH0WFQ
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Darya Wu
+Height: 5'5"
+Weight: 191 lbs
+
+License Plate 6XNFF6E
+[36m[K--[m[K
+Height: 5'3"
+Weight: 142 lbs
+
+License Plate GKGAZ7I
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Karin Egwero
+Height: 5'8"
+Weight: 212 lbs
+
+License Plate QS2R1YF
+[36m[K--[m[K
+Height: 5'0"
+Weight: 241 lbs
+
+License Plate H5M1AQ7
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Michael Houvenaghel
+Height: 5'9"
+Weight: 155 lbs
+
+License Plate GMT445P
+[36m[K--[m[K
+Height: 6'0"
+Weight: 178 lbs
+
+License Plate SI6MYKS
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Steven Solomon
+Height: 5'4"
+Weight: 187 lbs
+
+License Plate O9UDL7G
+[36m[K--[m[K
+Height: 6'4"
+Weight: 189 lbs
+
+License Plate 7BNFKY1
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Mechiel Socha
+Height: 5'0"
+Weight: 202 lbs
+
+License Plate 3EA9KCQ
+[36m[K--[m[K
+Height: 5'9"
+Weight: 178 lbs
+
+License Plate WEDCTN8
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Inaki Milanovic-Litre
+Height: 5'10"
+Weight: 247 lbs
+
+License Plate 7I699V6
+[36m[K--[m[K
+Height: 5'0"
+Weight: 171 lbs
+
+License Plate KCKGOH3
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Vladislava Tichelt
+Height: 5'7"
+Weight: 212 lbs
+
+License Plate 5EFJSMO
+[36m[K--[m[K
+Height: 5'3"
+Weight: 222 lbs
+
+License Plate VLL0TFQ
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Won Davison
+Height: 6'1"
+Weight: 232 lbs
+
+License Plate K8MV6FY
+[36m[K--[m[K
+Height: 5'9"
+Weight: 188 lbs
+
+License Plate FT15EBW
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: El Gonzalez
+Height: 5'4"
+Weight: 185 lbs
+
+License Plate 58YBJ4K
+[36m[K--[m[K
+Height: 6'4"
+Weight: 147 lbs
+
+License Plate 2K4O52T
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Paula Pamg
+Height: 5'9"
+Weight: 190 lbs
+
+License Plate N5IWP7M
+[36m[K--[m[K
+Height: 5'2"
+Weight: 211 lbs
+
+License Plate J27SP8O
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Horacio Klizan
+Height: 6'1"
+Weight: 146 lbs
+
+License Plate 2V8XJHF
+[36m[K--[m[K
+Height: 5'3"
+Weight: 215 lbs
+
+License Plate 20SQONU
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Mathieu Pigot
+Height: 6'0"
+Weight: 138 lbs
+
+License Plate RBQ7IZT
+[36m[K--[m[K
+Height: 5'1"
+Weight: 243 lbs
+
+License Plate VC58HC5
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Jean-Christophe Fujio
+Height: 6'1"
+Weight: 219 lbs
+
+License Plate YTGZBRQ
+[36m[K--[m[K
+Height: 6'2"
+Weight: 201 lbs
+
+License Plate 8D7IXJA
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Romulo Simanovich
+Height: 5'8"
+Weight: 237 lbs
+
+License Plate 6Q3QJ98
+[36m[K--[m[K
+Height: 6'3"
+Weight: 212 lbs
+
+License Plate 8F7HCA6
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Viktoriia Glavnyk
+Height: 6'1"
+Weight: 242 lbs
+
+License Plate 0ZIKK0I
+[36m[K--[m[K
+Height: 5'8"
+Weight: 135 lbs
+
+License Plate Y6MPS1E
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Carla Farrar
+Height: 5'0"
+Weight: 144 lbs
+
+License Plate UX1QGNR
+[36m[K--[m[K
+Height: 5'11"
+Weight: 222 lbs
+
+License Plate Z71PWSY
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Clara Mason
+Height: 5'7"
+Weight: 210 lbs
+
+License Plate SJ634ON
+[36m[K--[m[K
+Height: 5'7"
+Weight: 179 lbs
+
+License Plate 0A0657Y
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Sarah Benie
+Height: 5'3"
+Weight: 162 lbs
+
+License Plate B2IW0TN
+[36m[K--[m[K
+Height: 5'0"
+Weight: 195 lbs
+
+License Plate VAUXO76
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Andrea Wenger
+Height: 5'7"
+Weight: 180 lbs
+
+License Plate 0LG2EY9
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Simon Alphen
+Height: 6'2"
+Weight: 178 lbs
+
+License Plate HNB1ZSP
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Todd Kalmer
+Height: 5'6"
+Weight: 213 lbs
+
+License Plate 03D7HCJ
+[36m[K--[m[K
+Height: 5'8"
+Weight: 158 lbs
+
+License Plate 3G7IW3Q
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Teklemariam Fabre
+Height: 5'5"
+Weight: 166 lbs
+
+License Plate JZSWCYA
+[36m[K--[m[K
+Height: 6'3"
+Weight: 202 lbs
+
+License Plate 5UVHAWE
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Bruno Tomas
+Height: 6'0"
+Weight: 201 lbs
+
+License Plate TFQ03YK
+[36m[K--[m[K
+Height: 5'5"
+Weight: 195 lbs
+
+License Plate 1CS1Z5V
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Yang Fraser
+Height: 6'3"
+Weight: 230 lbs
+
+License Plate 195RS2U
+[36m[K--[m[K
+Height: 6'1"
+Weight: 174 lbs
+
+License Plate V6HCF4G
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Ruth Wallace
+Height: 6'4"
+Weight: 208 lbs
+
+License Plate 9KT58WG
+[36m[K--[m[K
+Height: 5'2"
+Weight: 238 lbs
+
+License Plate CMUYL7Z
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Andrei Delattre-Demory
+Height: 6'0"
+Weight: 208 lbs
+
+License Plate 1OGOMPY
+[36m[K--[m[K
+Height: 6'0"
+Weight: 145 lbs
+
+License Plate 3390AP2
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Ana Reilly
+Height: 5'3"
+Weight: 151 lbs
+
+License Plate RGO8RHB
+[36m[K--[m[K
+Height: 5'1"
+Weight: 147 lbs
+
+License Plate SU17V4G
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Denis Nasirshelal
+Height: 5'6"
+Weight: 143 lbs
+
+License Plate 491YG9I
+[36m[K--[m[K
+Height: 6'3"
+Weight: 179 lbs
+
+License Plate K38L65K
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Dimitri Kim
+Height: 5'11"
+Weight: 166 lbs
+
+License Plate UAIZG7J
+[36m[K--[m[K
+Height: 6'0"
+Weight: 224 lbs
+
+License Plate KSCWIG3
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Juan Oiwa
+Height: 6'0"
+Weight: 244 lbs
+
+License Plate P7OWRUV
+[36m[K--[m[K
+Height: 5'10"
+Weight: 165 lbs
+
+License Plate 0ZMXLZV
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Ediz Raja
+Height: 5'7"
+Weight: 166 lbs
+
+License Plate TDDVAYR
+[36m[K--[m[K
+Height: 6'2"
+Weight: 134 lbs
+
+License Plate GPUMCIY
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Christa Kvitova
+Height: 5'1"
+Weight: 221 lbs
+
+License Plate WLI39H0
+[36m[K--[m[K
+Height: 5'1"
+Weight: 231 lbs
+
+License Plate EAE30PA
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Blaza Frolov
+Height: 6'4"
+Weight: 149 lbs
+
+License Plate TPMJ81M
+[36m[K--[m[K
+Height: 5'11"
+Weight: 231 lbs
+
+License Plate 3ZZS831
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Viktor Steffens
+Height: 6'2"
+Weight: 200 lbs
+
+License Plate YF4CCCQ
+[36m[K--[m[K
+Height: 5'4"
+Weight: 199 lbs
+
+License Plate DUF7YY4
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Joyce Broersen
+Height: 5'0"
+Weight: 145 lbs
+
+License Plate 74T5335
+[36m[K--[m[K
+Height: 5'10"
+Weight: 139 lbs
+
+License Plate 6YVQZTG
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Hye Wallace
+Height: 5'0"
+Weight: 233 lbs
+
+License Plate DRFVGWA
+[36m[K--[m[K
+Height: 5'10"
+Weight: 192 lbs
+
+License Plate 2LFKYAU
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Aman Schulte
+Height: 5'4"
+Weight: 155 lbs
+
+License Plate 9KEOGCT
+[36m[K--[m[K
+Height: 5'2"
+Weight: 203 lbs
+
+License Plate R17F7XK
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Arnaud Feck
+Height: 6'1"
+Weight: 183 lbs
+
+License Plate ACZH8X7
+[36m[K--[m[K
+Height: 5'10"
+Weight: 156 lbs
+
+License Plate FF6QR6A
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Kurt Fayez
+Height: 5'2"
+Weight: 132 lbs
+
+License Plate RMW7OGI
+[36m[K--[m[K
+Height: 5'0"
+Weight: 233 lbs
+
+License Plate MQJU5GV
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Alice Irabaruta
+Height: 5'8"
+Weight: 181 lbs
+
+License Plate 9ORAGEG
+[36m[K--[m[K
+Height: 5'4"
+Weight: 245 lbs
+
+License Plate ZOI4DTW
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Levan Ingram
+Height: 5'11"
+Weight: 176 lbs
+
+License Plate U48CZ05
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Caster Gong
+Height: 6'1"
+Weight: 165 lbs
+
+License Plate HNU15NP
+[36m[K--[m[K
+Height: 6'0"
+Weight: 228 lbs
+
+License Plate 28ZIT3F
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Jane Hornsey
+Height: 5'7"
+Weight: 214 lbs
+
+License Plate THSCDQB
+[36m[K--[m[K
+Height: 6'4"
+Weight: 211 lbs
+
+License Plate PTC4B7R
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Alejandro Collins
+Height: 5'5"
+Weight: 150 lbs
+
+License Plate 8T9LYZM
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Lidia Glover
+Height: 5'1"
+Weight: 225 lbs
+
+License Plate VUXQO6M
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Darryl Nikic
+Height: 5'0"
+Weight: 164 lbs
+
+License Plate P4YT5M0
+[36m[K--[m[K
+Height: 6'3"
+Weight: 144 lbs
+
+License Plate XQGG353
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Sohsuke Ligeti
+Height: 5'4"
+Weight: 177 lbs
+
+License Plate ZB4EBIR
+[36m[K--[m[K
+Height: 5'7"
+Weight: 218 lbs
+
+License Plate OVJYL4Q
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Gemma Malki
+Height: 5'2"
+Weight: 166 lbs
+
+License Plate ULQ2FZF
+[36m[K--[m[K
+Height: 5'10"
+Weight: 230 lbs
+
+License Plate E96JXE4
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Gavin Bauza
+Height: 5'10"
+Weight: 139 lbs
+
+License Plate WAXJSBZ
+[36m[K--[m[K
+Height: 6'3"
+Weight: 166 lbs
+
+License Plate DJAVUHA
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Azneem Sharapova
+Height: 5'0"
+Weight: 198 lbs
+
+License Plate J0WSI52
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Andrija Peker
+Height: 5'5"
+Weight: 144 lbs
+
+License Plate 7NUT2DR
+[36m[K--[m[K
+Height: 5'9"
+Weight: 230 lbs
+
+License Plate GPKMFWK
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Tiexin Max-Theurer
+Height: 5'7"
+Weight: 159 lbs
+
+License Plate 38KJLLH
+[36m[K--[m[K
+Height: 5'4"
+Weight: 192 lbs
+
+License Plate IBH1WYW
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Roxanne Trott
+Height: 6'3"
+Weight: 142 lbs
+
+License Plate XXXDIOZ
+[36m[K--[m[K
+Height: 5'5"
+Weight: 224 lbs
+
+License Plate FUGZXTZ
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Nanne Maree
+Height: 5'2"
+Weight: 156 lbs
+
+License Plate BTDQLVU
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Marc Gebremedhin
+Height: 5'6"
+Weight: 211 lbs
+
+License Plate KDGPP9T
+[36m[K--[m[K
+Height: 5'8"
+Weight: 206 lbs
+
+License Plate PL93ZP8
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Facinet Ratna
+Height: 6'0"
+Weight: 145 lbs
+
+License Plate MQIA8RH
+[36m[K--[m[K
+Height: 5'4"
+Weight: 232 lbs
+
+License Plate MQC6E99
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Audrey Pulgar
+Height: 5'9"
+Weight: 160 lbs
+
+License Plate G7YMPN7
+[36m[K--[m[K
+Height: 6'2"
+Weight: 195 lbs
+
+License Plate Q05DAIY
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Saori Dancette
+Height: 6'3"
+Weight: 159 lbs
+
+License Plate XFFBH16
+[36m[K--[m[K
+Height: 5'10"
+Weight: 196 lbs
+
+License Plate 1DJDWGI
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Luis Gascon
+Height: 5'9"
+Weight: 166 lbs
+
+License Plate X5QCZCY
+[36m[K--[m[K
+Height: 5'5"
+Weight: 155 lbs
+
+License Plate ZZ9YK2C
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Line Emanuel
+Height: 6'4"
+Weight: 180 lbs
+
+License Plate J3N6LFY
+[36m[K--[m[K
+Height: 5'0"
+Weight: 137 lbs
+
+License Plate 7UIRXWS
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Mathew Phillips
+Height: 5'4"
+Weight: 241 lbs
+
+License Plate DYS69QQ
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Jesus Barrett
+Height: 6'1"
+Weight: 192 lbs
+
+License Plate OL1S71K
+[36m[K--[m[K
+Height: 5'3"
+Weight: 148 lbs
+
+License Plate 8N207KC
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Andrew Gallardo
+Height: 5'10"
+Weight: 222 lbs
+
+License Plate 3R0TCNL
+[36m[K--[m[K
+Height: 5'9"
+Weight: 199 lbs
+
+License Plate XUUSNG9
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Kevin Giovannoni
+Height: 6'1"
+Weight: 235 lbs
+
+License Plate NGMW0DC
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Kim Milczarek
+Height: 5'1"
+Weight: 143 lbs
+
+License Plate SOP0EV9
+[36m[K--[m[K
+Height: 5'0"
+Weight: 214 lbs
+
+License Plate L337QE9
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+
+License Plate 3PODXFM
+[36m[K--[m[K
+Height: 5'2"
+Weight: 178 lbs
+
+License Plate VFUDKWO
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Katrien Na
+Height: 5'3"
+Weight: 229 lbs
+
+License Plate KJ3NYLG
+[36m[K--[m[K
+Height: 5'3"
+Weight: 207 lbs
+
+License Plate 4FB6YZV
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Susana Neymour
+Height: 5'5"
+Weight: 165 lbs
+
+License Plate I8LPJ9W
+[36m[K--[m[K
+Height: 5'10"
+Weight: 163 lbs
+
+License Plate CQQ9BIT
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Martyna Kirkbride
+Height: 6'3"
+Weight: 183 lbs
+
+License Plate RWYEA4C
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Ludwig Trias
+Height: 6'3"
+Weight: 201 lbs
+
+License Plate 7FP00KR
+[36m[K--[m[K
+Height: 5'7"
+Weight: 172 lbs
+
+License Plate 68CVHT5
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Emily Chow
+Height: 5'7"
+Weight: 191 lbs
+
+License Plate J3MNKZW
+[36m[K--[m[K
+Height: 6'4"
+Weight: 227 lbs
+
+License Plate TS7LV6M
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Danyal Lefert
+Height: 6'1"
+Weight: 230 lbs
+
+License Plate 45A4GXB
+[36m[K--[m[K
+Height: 5'5"
+Weight: 153 lbs
+
+License Plate 3XEQKUX
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Jillian Lalova
+Height: 5'1"
+Weight: 172 lbs
+
+License Plate X7BK0F4
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Jose Overall
+Height: 5'1"
+Weight: 140 lbs
+
+License Plate GE6N9WP
+[36m[K--[m[K
+Height: 5'5"
+Weight: 170 lbs
+
+License Plate 6KW6QOR
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Louisa Hazer
+Height: 6'3"
+Weight: 183 lbs
+
+License Plate HJ3ED27
+[36m[K--[m[K
+Height: 6'3"
+Weight: 196 lbs
+
+License Plate 3HN7CRG
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Aksana Zhang
+Height: 6'2"
+Weight: 242 lbs
+
+License Plate 7RPT43V
+[36m[K--[m[K
+Height: 5'11"
+Weight: 193 lbs
+
+License Plate ART2AOH
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Ben Welsh
+Height: 5'5"
+Weight: 247 lbs
+
+License Plate NKU0GEV
+[36m[K--[m[K
+Height: 5'1"
+Weight: 183 lbs
+
+License Plate KFQHMVH
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Lubomir Frank
+Height: 6'3"
+Weight: 249 lbs
+
+License Plate UYFRHMZ
+[36m[K--[m[K
+Height: 5'2"
+Weight: 219 lbs
+
+License Plate 0CB574B
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Jean-Christophe Kirkham
+Height: 6'1"
+Weight: 163 lbs
+
+License Plate W97D3H1
+[36m[K--[m[K
+Height: 6'0"
+Weight: 176 lbs
+
+License Plate ALG2EDX
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Holly Kim
+Height: 5'11"
+Weight: 240 lbs
+
+License Plate LLX9QNG
+[36m[K--[m[K
+Height: 5'8"
+Weight: 202 lbs
+
+License Plate YEL140Z
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Robert Kang
+Height: 5'5"
+Weight: 196 lbs
+
+License Plate 9P4M86Q
+[36m[K--[m[K
+Height: 5'4"
+Weight: 179 lbs
+
+License Plate 8AQLISX
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Eduarda Bartonova
+Height: 5'1"
+Weight: 231 lbs
+
+License Plate RXM9OH8
+[36m[K--[m[K
+Height: 6'4"
+Weight: 213 lbs
+
+License Plate J7YVXPD
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Lok Al-Athba
+Height: 5'4"
+Weight: 233 lbs
+
+License Plate JNZDU30
+[36m[K--[m[K
+Height: 5'10"
+Weight: 141 lbs
+
+License Plate G5RGBE9
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Haiqi Popova
+Height: 5'11"
+Weight: 141 lbs
+
+License Plate 5XM13L2
+[36m[K--[m[K
+Height: 5'10"
+Weight: 162 lbs
+
+License Plate RMT4OR4
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Alia Luckwell
+Height: 5'3"
+Weight: 152 lbs
+
+License Plate 3P6XGBV
+[36m[K--[m[K
+Height: 6'2"
+Weight: 153 lbs
+
+License Plate YC7GUYD
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Ivan Nimke
+Height: 6'3"
+Weight: 224 lbs
+
+License Plate KI00084
+[36m[K--[m[K
+Height: 5'4"
+Weight: 226 lbs
+
+License Plate H1AZEU1
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Francesca Rowbotham
+Height: 5'10"
+Weight: 230 lbs
+
+License Plate OVA7EKO
+[36m[K--[m[K
+Height: 5'7"
+Weight: 197 lbs
+
+License Plate SAZN34D
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Lucy Nakaya
+Height: 6'4"
+Weight: 154 lbs
+
+License Plate 9B15EBN
+[36m[K--[m[K
+Height: 5'6"
+Weight: 171 lbs
+
+License Plate QDPXRIY
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Omar Atkinson
+Height: 6'2"
+Weight: 170 lbs
+
+License Plate 0ZP0MGG
+[36m[K--[m[K
+Height: 5'5"
+Weight: 183 lbs
+
+License Plate JO39SKU
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Jiao Grzybowska
+Height: 5'1"
+Weight: 193 lbs
+
+License Plate 1DXPYE1
+[36m[K--[m[K
+Height: 6'4"
+Weight: 174 lbs
+
+License Plate MD14QLY
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Andrey Kim
+Height: 5'10"
+Weight: 227 lbs
+
+License Plate HNJDOZN
+[36m[K--[m[K
+Height: 6'0"
+Weight: 228 lbs
+
+License Plate MX4BPMK
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Guzel Kahlefeldt
+Height: 5'0"
+Weight: 216 lbs
+
+License Plate SFD4Y2E
+[36m[K--[m[K
+Height: 5'6"
+Weight: 233 lbs
+
+License Plate 4SFMIN1
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Shuai Sudarava
+Height: 5'7"
+Weight: 153 lbs
+
+License Plate FFKMEXX
+[36m[K--[m[K
+Height: 5'6"
+Weight: 136 lbs
+
+License Plate HUCZP28
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Pedro Harper
+Height: 6'4"
+Weight: 241 lbs
+
+License Plate APZZ3SJ
+[36m[K--[m[K
+Height: 5'9"
+Weight: 165 lbs
+
+License Plate 0KM02I0
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Benjamin Pietrus
+Height: 6'4"
+Weight: 223 lbs
+
+License Plate TCLCKUT
+[36m[K--[m[K
+Height: 5'10"
+Weight: 133 lbs
+
+License Plate WUHBJUZ
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Mohammed Popp
+Height: 5'11"
+Weight: 159 lbs
+
+License Plate U24EA82
+[36m[K--[m[K
+Height: 6'1"
+Weight: 196 lbs
+
+License Plate J9F54B1
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Jason Hostetler
+Height: 5'9"
+Weight: 155 lbs
+
+License Plate LKFWLJ6
+[36m[K--[m[K
+Height: 6'0"
+Weight: 182 lbs
+
+License Plate 9LNGGEJ
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Aleksejs Collins
+Height: 5'8"
+Weight: 158 lbs
+
+License Plate YS6FSMX
+[36m[K--[m[K
+Height: 5'4"
+Weight: 171 lbs
+
+License Plate TZCWQ48
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Zhizhi Kehoe
+Height: 6'0"
+Weight: 169 lbs
+
+License Plate CWA6XP4
+[36m[K--[m[K
+Height: 5'8"
+Weight: 179 lbs
+
+License Plate MUPAR6A
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Yohan Miljanic
+Height: 5'10"
+Weight: 160 lbs
+
+License Plate U23MVNY
+[36m[K--[m[K
+Height: 5'7"
+Weight: 164 lbs
+
+License Plate 0QBWPYL
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Adam Sasaki
+Height: 6'1"
+Weight: 224 lbs
+
+License Plate 4RAEKD4
+[36m[K--[m[K
+Height: 5'0"
+Weight: 197 lbs
+
+License Plate SA7E1G9
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: James McNeill
+Height: 6'2"
+Weight: 134 lbs
+
+License Plate TZ1EPV7
+[36m[K--[m[K
+Height: 5'4"
+Weight: 175 lbs
+
+License Plate CS15714
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Damian Woods
+Height: 5'4"
+Weight: 226 lbs
+
+License Plate 9H4XHE7
+[36m[K--[m[K
+Height: 5'7"
+Weight: 151 lbs
+
+License Plate 8KDPRIO
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Pablo Pereyra
+Height: 6'2"
+Weight: 136 lbs
+
+License Plate T0W37T5
+[36m[K--[m[K
+Height: 5'1"
+Weight: 197 lbs
+
+License Plate 3BQWHQ0
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Atthaphon Starovic
+Height: 5'7"
+Weight: 208 lbs
+
+License Plate Z6NS0B5
+[36m[K--[m[K
+Height: 5'9"
+Weight: 225 lbs
+
+License Plate D062G2H
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Casey Mccabe
+Height: 5'9"
+Weight: 197 lbs
+
+License Plate TN0YXS5
+[36m[K--[m[K
+Height: 6'2"
+Weight: 161 lbs
+
+License Plate J7KT9O4
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Dongho Jensen
+Height: 5'3"
+Weight: 182 lbs
+
+License Plate E4PBE4L
+[36m[K--[m[K
+Height: 5'5"
+Weight: 152 lbs
+
+License Plate 6GONOJY
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Paul Almeida
+Height: 5'2"
+Weight: 184 lbs
+
+License Plate 9QJOOYS
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Neisha Liang
+Height: 5'2"
+Weight: 176 lbs
+
+License Plate A7BW2S3
+[36m[K--[m[K
+Height: 6'1"
+Weight: 197 lbs
+
+License Plate AV58FZW
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Kristina Borges-Mendelblatt
+Height: 5'1"
+Weight: 175 lbs
+
+License Plate LXPRA27
+[36m[K--[m[K
+Height: 5'2"
+Weight: 245 lbs
+
+License Plate 7SHF4S1
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Behdad Trowbridge
+Height: 5'7"
+Weight: 180 lbs
+
+License Plate KMB9FXS
+[36m[K--[m[K
+Height: 5'10"
+Weight: 195 lbs
+
+License Plate 9MXHARM
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Anne Houghton
+Height: 5'11"
+Weight: 201 lbs
+
+License Plate XRVVAK8
+[36m[K--[m[K
+Height: 5'11"
+Weight: 152 lbs
+
+License Plate W61QKHO
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Jordan Panizzon
+Height: 5'7"
+Weight: 220 lbs
+
+License Plate 2VOJS8A
+[36m[K--[m[K
+Height: 6'1"
+Weight: 231 lbs
+
+License Plate NEK2Z9N
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Natalia Sombroek
+Height: 5'8"
+Weight: 230 lbs
+
+License Plate 01XFV5I
+[36m[K--[m[K
+Height: 6'0"
+Weight: 141 lbs
+
+License Plate 6ESQW1Q
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Natallia Sidi
+Height: 5'8"
+Weight: 141 lbs
+
+License Plate RT3V0XZ
+[36m[K--[m[K
+Height: 5'9"
+Weight: 192 lbs
+
+License Plate 14V7MX7
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Ahmed Bortolanca
+Height: 6'2"
+Weight: 185 lbs
+
+License Plate 30FC7NH
+[36m[K--[m[K
+Height: 5'5"
+Weight: 245 lbs
+
+License Plate FB6LLD9
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Omolara Lopez
+Height: 6'3"
+Weight: 217 lbs
+
+License Plate KH6741E
+[36m[K--[m[K
+Height: 5'1"
+Weight: 199 lbs
+
+License Plate T46S1O8
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Pape Kantarci
+Height: 6'1"
+Weight: 184 lbs
+
+License Plate QFR1YYZ
+[36m[K--[m[K
+Height: 5'6"
+Weight: 189 lbs
+
+License Plate FFRM7XI
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Chris Keller
+Height: 5'2"
+Weight: 151 lbs
+
+License Plate 27E5NJY
+[36m[K--[m[K
+Height: 5'7"
+Weight: 164 lbs
+
+License Plate 0WNIK6P
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Xiaodong Dulko
+Height: 5'11"
+Weight: 215 lbs
+
+License Plate U2OGREP
+[36m[K--[m[K
+Height: 5'10"
+Weight: 206 lbs
+
+License Plate 8OSNZDK
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Hans Bustos
+Height: 5'11"
+Weight: 219 lbs
+
+License Plate 17M8SYW
+[36m[K--[m[K
+Height: 5'6"
+Weight: 237 lbs
+
+License Plate 14S4L5M
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Scott Klein
+Height: 5'5"
+Weight: 203 lbs
+
+License Plate BDKCPYB
+[36m[K--[m[K
+Height: 6'4"
+Weight: 196 lbs
+
+License Plate 0V53Q5M
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Craig Pijetlovic
+Height: 5'3"
+Weight: 168 lbs
+
+License Plate H2MFJDD
+[36m[K--[m[K
+Height: 6'2"
+Weight: 220 lbs
+
+License Plate KIWHPH1
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Haibing Salvatori
+Height: 5'8"
+Weight: 196 lbs
+
+License Plate VSTRD7S
+[36m[K--[m[K
+Height: 5'8"
+Weight: 238 lbs
+
+License Plate EFLW3P7
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Marry Azizi
+Height: 5'2"
+Weight: 229 lbs
+
+License Plate 1AIAS00
+[36m[K--[m[K
+Height: 5'5"
+Weight: 185 lbs
+
+License Plate XY53MMN
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Velichko Connor
+Height: 5'6"
+Weight: 175 lbs
+
+License Plate 7H1JB3Q
+[36m[K--[m[K
+Height: 5'10"
+Weight: 137 lbs
+
+License Plate RID8WZ3
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Mannad Khitraya
+Height: 6'4"
+Weight: 179 lbs
+
+License Plate KNVHKBA
+[36m[K--[m[K
+Height: 5'6"
+Weight: 176 lbs
+
+License Plate Y8QF5TQ
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Ivana Fajdek
+Height: 5'2"
+Weight: 237 lbs
+
+License Plate XZJGQW2
+[36m[K--[m[K
+Height: 5'8"
+Weight: 147 lbs
+
+License Plate E225Y4G
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Takamasa Gogaev
+Height: 5'4"
+Weight: 153 lbs
+
+License Plate S8WR3ZD
+[36m[K--[m[K
+Height: 5'7"
+Weight: 134 lbs
+
+License Plate CZZO94O
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Sandra Gomez
+Height: 5'9"
+Weight: 226 lbs
+
+License Plate TJRZXFE
+[36m[K--[m[K
+Height: 5'4"
+Weight: 244 lbs
+
+License Plate 02B99OK
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Burry Rodriguez
+Height: 5'1"
+Weight: 136 lbs
+
+License Plate TXC5DH4
+[36m[K--[m[K
+Height: 5'0"
+Weight: 187 lbs
+
+License Plate DZYUDNT
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Sidarka Smelyk
+Height: 6'2"
+Weight: 150 lbs
+
+License Plate OW7R89F
+[36m[K--[m[K
+Height: 5'8"
+Weight: 206 lbs
+
+License Plate GPOEA20
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Lauren Jaballah
+Height: 5'8"
+Weight: 150 lbs
+
+License Plate 22CXBZP
+[36m[K--[m[K
+Height: 5'1"
+Weight: 187 lbs
+
+License Plate 16A87IO
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Gerco Abshero
+Height: 5'3"
+Weight: 153 lbs
+
+License Plate VNKEHGD
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Reza Hoovels
+Height: 5'11"
+Weight: 192 lbs
+
+License Plate XZ0NSFQ
+[36m[K--[m[K
+Height: 5'0"
+Weight: 141 lbs
+
+License Plate SKETWPY
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Dalibor Vidal
+Height: 5'10"
+Weight: 142 lbs
+
+License Plate XV1W4DZ
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Alexander Kosok
+Height: 5'4"
+Weight: 247 lbs
+
+License Plate FX0P6JQ
+[36m[K--[m[K
+Height: 5'10"
+Weight: 173 lbs
+
+License Plate UF1FKI7
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Mark Bennett
+Height: 5'2"
+Weight: 164 lbs
+
+License Plate SYJ00HX
+[36m[K--[m[K
+Height: 6'2"
+Weight: 148 lbs
+
+License Plate J9237ST
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Dieter Schooling
+Height: 6'2"
+Weight: 226 lbs
+
+License Plate L337GB9
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Matt Waite
+Height: 6'1"
+Weight: 190 lbs
+
+License Plate UK8RV00
+[36m[K--[m[K
+Height: 5'3"
+Weight: 174 lbs
+
+License Plate ZEB1EC7
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Ashley Johansson
+Height: 5'5"
+Weight: 231 lbs
+
+License Plate 3H33Y3X
+[36m[K--[m[K
+Height: 5'6"
+Weight: 131 lbs
+
+License Plate QSWT4NJ
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Ayman Suursild
+Height: 5'4"
+Weight: 208 lbs
+
+License Plate K35QVOR
+[36m[K--[m[K
+Height: 5'4"
+Weight: 240 lbs
+
+License Plate L337OI9
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Brian Boyer
+Height: 6'6"
+Weight: 201 lbs
+
+License Plate JFIUVDB
+[36m[K--[m[K
+Height: 5'0"
+Weight: 162 lbs
+
+License Plate 297MR1S
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Omar Aguirregaray
+Height: 5'1"
+Weight: 187 lbs
+
+License Plate HXZ2JJJ
+[36m[K--[m[K
+Height: 6'0"
+Weight: 244 lbs
+
+License Plate WWA4OGF
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Egidio Kleiza
+Height: 5'3"
+Weight: 149 lbs
+
+License Plate WTVE1JM
+[36m[K--[m[K
+Height: 5'4"
+Weight: 173 lbs
+
+License Plate TOOZZAQ
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Jorge Wilhelm
+Height: 6'4"
+Weight: 243 lbs
+
+License Plate 6FG17FP
+[36m[K--[m[K
+Height: 6'0"
+Weight: 236 lbs
+
+License Plate VYWQA58
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Eun Burton
+Height: 6'3"
+Weight: 235 lbs
+
+License Plate BZLNZWJ
+[36m[K--[m[K
+Height: 5'11"
+Weight: 244 lbs
+
+License Plate GP75V4L
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Soren Dickens
+Height: 6'0"
+Weight: 213 lbs
+
+License Plate 6SY9IPP
+[36m[K--[m[K
+Height: 6'1"
+Weight: 242 lbs
+
+License Plate 6JEV0TP
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Fiona Granollers
+Height: 5'5"
+Weight: 179 lbs
+
+License Plate QOP7FHF
+[36m[K--[m[K
+Height: 5'3"
+Weight: 226 lbs
+
+License Plate FDSE07H
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Yang Yin
+Height: 5'4"
+Weight: 203 lbs
+
+License Plate Y2D4OTC
+[36m[K--[m[K
+Height: 6'1"
+Weight: 228 lbs
+
+License Plate NAJA4NK
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Joachim Mironcic
+Height: 5'1"
+Weight: 210 lbs
+
+License Plate SIFD9EP
+[36m[K--[m[K
+Height: 6'2"
+Weight: 195 lbs
+
+License Plate TUTU0MP
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Andre Shimamoto
+Height: 5'5"
+Weight: 153 lbs
+
+License Plate VG625KC
+[36m[K--[m[K
+Height: 5'3"
+Weight: 165 lbs
+
+License Plate L7OHD8V
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Nicolas Carou
+Height: 5'5"
+Weight: 225 lbs
+
+License Plate V5P3RSJ
+[36m[K--[m[K
+Height: 5'1"
+Weight: 163 lbs
+
+License Plate RLUC9VG
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Muller Nikcevic
+Height: 5'11"
+Weight: 241 lbs
+
+License Plate XI3U2WW
+[36m[K--[m[K
+Height: 5'2"
+Weight: 178 lbs
+
+License Plate RYW35UC
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Jeannette Prokopiev
+Height: 5'7"
+Weight: 220 lbs
+
+License Plate T7PJK0M
+[36m[K--[m[K
+Height: 5'0"
+Weight: 164 lbs
+
+License Plate WWVOTVH
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Peng Perez
+Height: 5'2"
+Weight: 248 lbs
+
+License Plate A303VAY
+[36m[K--[m[K
+Height: 5'4"
+Weight: 141 lbs
+
+License Plate SYW1EBB
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Leandro Asumnu
+Height: 5'11"
+Weight: 179 lbs
+
+License Plate 5W6HFM7
+[36m[K--[m[K
+Height: 5'7"
+Weight: 147 lbs
+
+License Plate WGYDLTG
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Alexander Hansen
+Height: 5'0"
+Weight: 192 lbs
+
+License Plate 1BAM3JB
+[36m[K--[m[K
+Height: 5'7"
+Weight: 200 lbs
+
+License Plate FNZTA86
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Mohammad Goderie
+Height: 5'5"
+Weight: 235 lbs
+
+License Plate STI4NY0
+[36m[K--[m[K
+Height: 5'5"
+Weight: 218 lbs
+
+License Plate 1Z1W4Z4
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Emmanuel Arkhipova
+Height: 6'1"
+Weight: 193 lbs
+
+License Plate QMHJ0T3
+[36m[K--[m[K
+Height: 5'9"
+Weight: 245 lbs
+
+License Plate 9CGRXR1
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Mikhail Polaczyk
+Height: 5'3"
+Weight: 187 lbs
+
+License Plate 9LGAYMC
+[36m[K--[m[K
+Height: 5'5"
+Weight: 196 lbs
+
+License Plate LZFWX7F
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Jake Im
+Height: 6'4"
+Weight: 196 lbs
+
+License Plate AOJGP7S
+[36m[K--[m[K
+Height: 5'10"
+Weight: 225 lbs
+
+License Plate HW2ESWW
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Igor Fredricson
+Height: 5'4"
+Weight: 208 lbs
+
+License Plate SDI1X7B
+[36m[K--[m[K
+Height: 6'4"
+Weight: 206 lbs
+
+License Plate 2515597
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Wilson Duong
+Height: 6'1"
+Weight: 193 lbs
+
+License Plate 33ITF5E
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Aselefech Gkountoulas
+Height: 5'6"
+Weight: 188 lbs
+
+License Plate 2PIRAN4
+[36m[K--[m[K
+Height: 5'7"
+Weight: 175 lbs
+
+License Plate MG3PZV9
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Jamol Perez
+Height: 5'2"
+Weight: 210 lbs
+
+License Plate LW6DCOJ
+[36m[K--[m[K
+Height: 5'0"
+Weight: 130 lbs
+
+License Plate W79VPLT
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Ali Milthaler
+Height: 6'2"
+Weight: 150 lbs
+
+License Plate ZP9Y1KN
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Ikhtiyor Kamikawa
+Height: 5'2"
+Weight: 184 lbs
+
+License Plate B0F3TL7
+[36m[K--[m[K
+Height: 5'1"
+Weight: 177 lbs
+
+License Plate X4UQ2ON
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Tiff Fehr
+Height: 5'4"
+Weight: 133 lbs
+
+License Plate HICOF26
+[36m[K--[m[K
+Height: 5'3"
+Weight: 160 lbs
+
+License Plate 5XNHT0B
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Lina Hassine
+Height: 5'10"
+Weight: 152 lbs
+
+License Plate 6EP2489
+[36m[K--[m[K
+Height: 5'10"
+Weight: 157 lbs
+
+License Plate N5CQF3N
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Savannah Kleen
+Height: 5'9"
+Weight: 217 lbs
+
+License Plate 0N28HCZ
+[36m[K--[m[K
+Height: 5'0"
+Weight: 195 lbs
+
+License Plate KR79T32
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Rafal Sidorov
+Height: 5'4"
+Weight: 142 lbs
+
+License Plate BFWWUNO
+[36m[K--[m[K
+Height: 6'0"
+Weight: 175 lbs
+
+License Plate L337X19
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Al Shaw
+Height: 6'5"
+Weight: 240 lbs
+
+License Plate SP0817V
+[36m[K--[m[K
+Height: 5'11"
+Weight: 194 lbs
+
+License Plate XUC2VZ6
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Brent Queen
+Height: 5'7"
+Weight: 159 lbs
+
+License Plate K1LWTTN
+[36m[K--[m[K
+Height: 5'3"
+Weight: 154 lbs
+
+License Plate 0YPPZW8
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Stefanie Thi
+Height: 6'1"
+Weight: 220 lbs
+
+License Plate UC5Z4HA
+[36m[K--[m[K
+Height: 5'2"
+Weight: 151 lbs
+
+License Plate 291D9E6
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Kemal Dinda
+Height: 5'8"
+Weight: 205 lbs
+
+License Plate 3RHG0KG
+[36m[K--[m[K
+Height: 5'3"
+Weight: 168 lbs
+
+License Plate O5EPHK2
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Hagos Kempas
+Height: 5'5"
+Weight: 140 lbs
+
+License Plate 6NLV7PV
+[36m[K--[m[K
+Height: 6'4"
+Weight: 141 lbs
+
+License Plate SM0313S
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Adrian Melzer
+Height: 6'1"
+Weight: 168 lbs
+
+License Plate 8ZUZA49
+[36m[K--[m[K
+Height: 6'4"
+Weight: 142 lbs
+
+License Plate OFP06L2
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Roderick Lipatov
+Height: 5'7"
+Weight: 142 lbs
+
+License Plate FZKA23E
+[36m[K--[m[K
+Height: 5'9"
+Weight: 140 lbs
+
+License Plate 7QDWX07
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Christin Brown
+Height: 5'11"
+Weight: 151 lbs
+
+License Plate UMQGIBG
+[36m[K--[m[K
+Height: 6'1"
+Weight: 229 lbs
+
+License Plate 51X4322
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: George Matsuda
+Height: 5'4"
+Weight: 183 lbs
+
+License Plate YFRBAE7
+[36m[K--[m[K
+Height: 5'4"
+Weight: 148 lbs
+
+License Plate 6GBK62G
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Ruta Trowbridge
+Height: 5'8"
+Weight: 183 lbs
+
+License Plate J9UO0RL
+[36m[K--[m[K
+Height: 5'4"
+Weight: 201 lbs
+
+License Plate 8MYV1J8
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Adam Yumira
+Height: 5'0"
+Weight: 161 lbs
+
+License Plate 469MHGH
+[36m[K--[m[K
+Height: 5'1"
+Weight: 227 lbs
+
+License Plate R5TWS3B
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Guillaume Colle
+Height: 5'9"
+Weight: 187 lbs
+
+License Plate 48XFZ2F
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Igor Martin
+Height: 6'0"
+Weight: 231 lbs
+
+License Plate 2BDK7K4
+[36m[K--[m[K
+Height: 5'10"
+Weight: 204 lbs
+
+License Plate 90KZE9Q
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Carmelita Zahmi
+Height: 5'1"
+Weight: 153 lbs
+
+License Plate NFT5B1X
+[36m[K--[m[K
+Height: 5'1"
+Weight: 187 lbs
+
+License Plate 6SR7YIJ
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Deniz Kowalska
+Height: 5'2"
+Weight: 217 lbs
+
+License Plate UYMQ68U
+[36m[K--[m[K
+Height: 6'0"
+Weight: 216 lbs
+
+License Plate 0V707S1
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Karim Kuczynski
+Height: 5'4"
+Weight: 158 lbs
+
+License Plate G5CXNG9
+[36m[K--[m[K
+Height: 5'11"
+Weight: 226 lbs
+
+License Plate FS1R8IP
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Ahmed Docherty
+Height: 6'3"
+Weight: 235 lbs
+
+License Plate GWDF3HR
+[36m[K--[m[K
+Height: 5'6"
+Weight: 160 lbs
+
+License Plate KTWY0PM
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Gauthier Burns
+Height: 5'7"
+Weight: 172 lbs
+
+License Plate HLSFV7D
+[36m[K--[m[K
+Height: 5'4"
+Weight: 154 lbs
+
+License Plate QAW5BRT
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Shinta Gong
+Height: 5'8"
+Weight: 175 lbs
+
+License Plate D789FDN
+[36m[K--[m[K
+Height: 6'0"
+Weight: 248 lbs
+
+License Plate ZK77MWL
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Trixi Niwa
+Height: 5'7"
+Weight: 163 lbs
+
+License Plate 7JD9RMQ
+[36m[K--[m[K
+Height: 5'3"
+Weight: 137 lbs
+
+License Plate 8P0UW6R
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Carolina Borman
+Height: 5'7"
+Weight: 142 lbs
+
+License Plate P3FAGTA
+[36m[K--[m[K
+Height: 6'2"
+Weight: 229 lbs
+
+License Plate F4D1ZJW
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Benjamin Kempas
+Height: 6'1"
+Weight: 160 lbs
+
+License Plate JSDG0PV
+[36m[K--[m[K
+Height: 5'8"
+Weight: 198 lbs
+
+License Plate ZX9SV4B
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Sylwia Yang
+Height: 5'7"
+Weight: 153 lbs
+
+License Plate ORHV1TU
+[36m[K--[m[K
+Height: 6'0"
+Weight: 208 lbs
+
+License Plate B239H2C
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Kacper Napo
+Height: 5'1"
+Weight: 210 lbs
+
+License Plate ZLP1WX2
+[36m[K--[m[K
+Height: 5'6"
+Weight: 137 lbs
+
+License Plate 2O2MOZL
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Fiona Wiggins
+Height: 6'2"
+Weight: 168 lbs
+
+License Plate PL73CYJ
+[36m[K--[m[K
+Height: 6'2"
+Weight: 133 lbs
+
+License Plate ZUOAVZ0
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Roman Kim
+Height: 5'6"
+Weight: 145 lbs
+
+License Plate R1RGRRU
+[36m[K--[m[K
+Height: 5'8"
+Weight: 181 lbs
+
+License Plate L337539
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Aron Pilhofer
+Height: 5'3"
+Weight: 198 lbs
+
+License Plate 8C5LC5N
+[36m[K--[m[K
+Height: 6'0"
+Weight: 167 lbs
+
+License Plate MHHYBI4
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Sarolta Coughlin
+Height: 5'0"
+Weight: 219 lbs
+
+License Plate XLXI0D8
+[36m[K--[m[K
+Height: 5'3"
+Weight: 162 lbs
+
+License Plate CPYKOHM
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Dagmara Balla
+Height: 5'3"
+Weight: 194 lbs
+
+License Plate SLYKZ99
+[36m[K--[m[K
+Height: 5'3"
+Weight: 145 lbs
+
+License Plate DY6TTZM
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: On Varga
+Height: 5'8"
+Weight: 184 lbs
+
+License Plate 5KVDLEI
+[36m[K--[m[K
+Height: 5'8"
+Weight: 188 lbs
+
+License Plate RURQ3G3
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Ann-Marie Moffatt
+Height: 6'2"
+Weight: 144 lbs
+
+License Plate T7M59KR
+[36m[K--[m[K
+Height: 5'2"
+Weight: 229 lbs
+
+License Plate MZF4R5H
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Gladys Mandell
+Height: 5'9"
+Weight: 235 lbs
+
+License Plate AG6P3ZF
+[36m[K--[m[K
+Height: 5'9"
+Weight: 214 lbs
+
+License Plate UVE3U3I
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Wei White
+Height: 5'6"
+Weight: 224 lbs
+
+License Plate 61HIOM4
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Hiroshi Schuring
+Height: 6'0"
+Weight: 247 lbs
+
+License Plate SJ7V5J3
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Maria Figlioli
+Height: 5'10"
+Weight: 209 lbs
+
+License Plate VNVXWFL
+[36m[K--[m[K
+Height: 5'8"
+Weight: 148 lbs
+
+License Plate 42EIUNP
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Omar Jon
+Height: 5'6"
+Weight: 184 lbs
+
+License Plate VWUG8DS
+[36m[K--[m[K
+Height: 5'3"
+Weight: 226 lbs
+
+License Plate 8QWCQ1H
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Lok Poglajen
+Height: 5'5"
+Weight: 232 lbs
+
+License Plate WWY8QGS
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Toni Shevchenko
+Height: 6'4"
+Weight: 241 lbs
+
+License Plate 9JL452C
+[36m[K--[m[K
+Height: 6'0"
+Weight: 135 lbs
+
+License Plate 42UZQAM
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Sviatlana Yang
+Height: 6'1"
+Weight: 173 lbs
+
+License Plate ZCSOMR7
+[36m[K--[m[K
+Height: 5'3"
+Weight: 166 lbs
+
+License Plate 1I0WB6H
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Li Watanabe
+Height: 5'5"
+Weight: 158 lbs
+
+License Plate S16K3ZJ
+[36m[K--[m[K
+Height: 5'4"
+Weight: 239 lbs
+
+License Plate ZAAH7ZA
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Tim Rodriguez
+Height: 5'8"
+Weight: 132 lbs
+
+License Plate 3KHN7UK
+[36m[K--[m[K
+Height: 5'11"
+Weight: 186 lbs
+
+License Plate B6TVZYN
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Sergey Lee
+Height: 6'4"
+Weight: 196 lbs
+
+License Plate O7QMIZP
+[36m[K--[m[K
+Height: 5'0"
+Weight: 174 lbs
+
+License Plate GY13NEP
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Sholpan Draudvila
+Height: 5'3"
+Weight: 154 lbs
+
+License Plate 1NXG8IJ
+[36m[K--[m[K
+Height: 6'1"
+Weight: 186 lbs
+
+License Plate RR0MRKA
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Radhouane Klamer
+Height: 5'5"
+Weight: 191 lbs
+
+License Plate XXP6WOY
+[36m[K--[m[K
+Height: 6'4"
+Weight: 250 lbs
+
+License Plate B3SYSPE
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Sarra Bainbridge
+Height: 5'4"
+Weight: 232 lbs
+
+License Plate 4ZLEWR5
+[36m[K--[m[K
+Height: 6'4"
+Weight: 248 lbs
+
+License Plate 81KYE59
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Zorana Kucukbay
+Height: 6'4"
+Weight: 246 lbs
+
+License Plate CQY6IN7
+[36m[K--[m[K
+Height: 6'0"
+Weight: 216 lbs
+
+License Plate 0XUKGQI
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Samir Panguana
+Height: 5'3"
+Weight: 221 lbs
+
+License Plate M27GTZD
+[36m[K--[m[K
+Height: 5'7"
+Weight: 178 lbs
+
+License Plate DU0NAEX
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Un Alberdi
+Height: 6'4"
+Weight: 226 lbs
+
+License Plate 1JXN65Y
+[36m[K--[m[K
+Height: 5'10"
+Weight: 223 lbs
+
+License Plate 3OAO266
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Sascha Bentley
+Height: 6'1"
+Weight: 244 lbs
+
+License Plate H103RSZ
+[36m[K--[m[K
+Height: 5'0"
+Weight: 205 lbs
+
+License Plate HTNBSKL
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Alexandr Liu
+Height: 5'4"
+Weight: 131 lbs
+
+License Plate VQVKM35
+[36m[K--[m[K
+Height: 5'8"
+Weight: 233 lbs
+
+License Plate NPD975N
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Thorbjorn Demps
+Height: 5'3"
+Weight: 206 lbs
+
+License Plate T8DI3JT
+[36m[K--[m[K
+Height: 5'11"
+Weight: 141 lbs
+
+License Plate 2PIO3I3
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Viktorya Schmidt
+Height: 5'6"
+Weight: 232 lbs
+
+License Plate ZQV6HNK
+[36m[K--[m[K
+Height: 6'3"
+Weight: 148 lbs
+
+License Plate FO9UGCI
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Marisa Rocamontes
+Height: 5'11"
+Weight: 219 lbs
+
+License Plate IV7P4OJ
+[36m[K--[m[K
+Height: 5'3"
+Weight: 237 lbs
+
+License Plate MF1R1J5
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Marius Davies
+Height: 6'0"
+Weight: 193 lbs
+
+License Plate JW8OPTB
+[36m[K--[m[K
+Height: 5'8"
+Weight: 149 lbs
+
+License Plate R1VJLFR
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Tianyi Boughanmi
+Height: 6'2"
+Weight: 192 lbs
+
+License Plate 9X1LMPW
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Suwaibou Klemencic
+Height: 5'4"
+Weight: 135 lbs
+
+License Plate Q4W0W9G
+[36m[K--[m[K
+Height: 5'7"
+Weight: 163 lbs
+
+License Plate 4I8XC8H
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Pietro Warfe
+Height: 5'3"
+Weight: 228 lbs
+
+License Plate RPXLJ38
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Ainhoa Taylor
+Height: 5'1"
+Weight: 161 lbs
+
+License Plate 9NQ20RQ
+[36m[K--[m[K
+Height: 5'1"
+Weight: 193 lbs
+
+License Plate FMQZNGJ
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Feiyi Zavadsky
+Height: 6'2"
+Weight: 160 lbs
+
+License Plate XISOPY8
+[36m[K--[m[K
+Height: 5'10"
+Weight: 193 lbs
+
+License Plate LD8D84C
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Kana Manzano
+Height: 5'5"
+Weight: 191 lbs
+
+License Plate 7XW1DLV
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Bojan Zhao
+Height: 5'10"
+Weight: 171 lbs
+
+License Plate 0IDLI1V
+[36m[K--[m[K
+Height: 5'9"
+Weight: 214 lbs
+
+License Plate 5D0T3L7
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Shane Wu
+Height: 5'8"
+Weight: 173 lbs
+
+License Plate 630R54N
+[36m[K--[m[K
+Height: 6'0"
+Weight: 209 lbs
+
+License Plate XA2G2UW
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Aleksandr Rutherford
+Height: 5'7"
+Weight: 169 lbs
+
+License Plate 9EA2QTG
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Georgia Raguib
+Height: 5'11"
+Weight: 248 lbs
+
+License Plate CAN5E53
+[36m[K--[m[K
+Height: 6'3"
+Weight: 184 lbs
+
+License Plate XIRJBNM
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Christian Isinbaeva
+Height: 5'1"
+Weight: 177 lbs
+
+License Plate QF5A4L7
+[36m[K--[m[K
+Height: 5'0"
+Weight: 179 lbs
+
+License Plate HU1491L
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Robert Mothersille
+Height: 6'2"
+Weight: 151 lbs
+
+License Plate F9HTTN0
+[36m[K--[m[K
+Height: 6'4"
+Weight: 148 lbs
+
+License Plate BPO22VW
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Samantha Grankin
+Height: 5'1"
+Weight: 199 lbs
+
+License Plate BW3AFVR
+[36m[K--[m[K
+Height: 5'9"
+Weight: 153 lbs
+
+License Plate FME4WEB
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Daniel Shipilova
+Height: 6'4"
+Weight: 168 lbs
+
+License Plate IXZEXQJ
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Maria Smid
+Height: 6'3"
+Weight: 224 lbs
+
+License Plate MG50612
+[36m[K--[m[K
+Height: 6'3"
+Weight: 249 lbs
+
+License Plate 5Q8LHGX
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Darae Elsayed
+Height: 6'3"
+Weight: 136 lbs
+
+License Plate YC7KAFI
+[36m[K--[m[K
+Height: 5'10"
+Weight: 131 lbs
+
+License Plate 5UNWGG2
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Mercy Nakamoto
+Height: 5'1"
+Weight: 134 lbs
+
+License Plate YKP6VF0
+[36m[K--[m[K
+Height: 5'9"
+Weight: 168 lbs
+
+License Plate 6LPSUPR
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Jan Chavanel
+Height: 5'2"
+Weight: 178 lbs
+
+License Plate IXXRP91
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Norbert Prokopenko
+Height: 5'9"
+Weight: 140 lbs
+
+License Plate SQQRHK2
+[36m[K--[m[K
+Height: 6'2"
+Weight: 161 lbs
+
+License Plate SMGEWGB
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Ivan Abdusalomov
+Height: 5'2"
+Weight: 234 lbs
+
+License Plate 85XJPCM
+[36m[K--[m[K
+Height: 6'3"
+Weight: 199 lbs
+
+License Plate BLJVYT5
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Vasyl Malaquias
+Height: 6'3"
+Weight: 161 lbs
+
+License Plate 1ZXJTDD
+[36m[K--[m[K
+Height: 6'1"
+Weight: 206 lbs
+
+License Plate 370MBLT
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Julia Olsson
+Height: 5'8"
+Weight: 241 lbs
+
+License Plate 7UHVIZI
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Abdullah Jiao
+Height: 5'0"
+Weight: 149 lbs
+
+License Plate 414CNBR
+[36m[K--[m[K
+Height: 5'9"
+Weight: 137 lbs
+
+License Plate HWPQNVS
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Michal Jakobsson
+Height: 5'10"
+Weight: 185 lbs
+
+License Plate WZJC0RE
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Yun Dula
+Height: 5'2"
+Weight: 231 lbs
+
+License Plate A7Z3PLX
+[36m[K--[m[K
+Height: 5'2"
+Weight: 147 lbs
+
+License Plate EMI0A0F
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Mirac Ariyoshi
+Height: 5'10"
+Weight: 234 lbs
+
+License Plate T2ATN2K
+[36m[K--[m[K
+Height: 5'5"
+Weight: 155 lbs
+
+License Plate Z81O15F
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Yige Lamoen
+Height: 6'3"
+Weight: 198 lbs
+
+License Plate 4P7X7I3
+[36m[K--[m[K
+Height: 6'3"
+Weight: 240 lbs
+
+License Plate M7IMVF7
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Aida Felix
+Height: 5'8"
+Weight: 210 lbs
+
+License Plate DR5K2LG
+[36m[K--[m[K
+Height: 5'2"
+Weight: 245 lbs
+
+License Plate A1ZOVGV
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Attila Sullivan
+Height: 5'0"
+Weight: 155 lbs
+
+License Plate PT4OEHV
+[36m[K--[m[K
+Height: 5'1"
+Weight: 174 lbs
+
+License Plate RFC96K7
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Katerina Riccobelli
+Height: 5'6"
+Weight: 144 lbs
+
+License Plate 7OV90P2
+[36m[K--[m[K
+Height: 6'4"
+Weight: 153 lbs
+
+License Plate 41UEIS2
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Carmelo Diamond
+Height: 5'9"
+Weight: 141 lbs
+
+License Plate 97OBTM9
+[36m[K--[m[K
+Height: 5'1"
+Weight: 192 lbs
+
+License Plate YSDY9DA
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Serhiy Bisharat
+Height: 6'4"
+Weight: 202 lbs
+
+License Plate EYWYS30
+[36m[K--[m[K
+Height: 6'3"
+Weight: 161 lbs
+
+License Plate YYNLJWT
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Felipe Kechrid
+Height: 6'4"
+Weight: 186 lbs
+
+License Plate 4500ZDN
+[36m[K--[m[K
+Height: 5'1"
+Weight: 190 lbs
+
+License Plate 2KYSOAP
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Camilla Terpstra
+Height: 6'3"
+Weight: 137 lbs
+
+License Plate ED1D3MD
+[36m[K--[m[K
+Height: 5'0"
+Weight: 177 lbs
+
+License Plate 6QRC33F
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Prince Sloma
+Height: 6'4"
+Weight: 227 lbs
+
+License Plate 4S5NC3G
+[36m[K--[m[K
+Height: 6'1"
+Weight: 175 lbs
+
+License Plate FCH0ZHA
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Giorgia Kleinert
+Height: 6'2"
+Weight: 225 lbs
+
+License Plate 3CNO0KF
+[36m[K--[m[K
+Height: 5'11"
+Weight: 237 lbs
+
+License Plate WJXZL8R
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Brittany Brzozowicz
+Height: 5'5"
+Weight: 174 lbs
+
+License Plate XVV7FJ8
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Deniz Almazam
+Height: 5'4"
+Weight: 143 lbs
+
+License Plate E8PIKIT
+[36m[K--[m[K
+Height: 5'7"
+Weight: 174 lbs
+
+License Plate FWQCGEB
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: James Hsiao
+Height: 5'10"
+Weight: 217 lbs
+
+License Plate KHODZV8
+[36m[K--[m[K
+Height: 5'8"
+Weight: 159 lbs
+
+License Plate 0BPDCKQ
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Yuki Adrian
+Height: 5'10"
+Weight: 184 lbs
+
+License Plate HFTV8JS
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Yana Al-Garni
+Height: 5'5"
+Weight: 142 lbs
+
+License Plate CIEF72H
+[36m[K--[m[K
+Height: 5'8"
+Weight: 165 lbs
+
+License Plate EY0DDD7
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Aleksandr Holliday
+Height: 5'8"
+Weight: 210 lbs
+
+License Plate YE3D40U
+[36m[K--[m[K
+Height: 6'0"
+Weight: 223 lbs
+
+License Plate MO41KD5
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Eunbi Jeon
+Height: 6'4"
+Weight: 177 lbs
+
+License Plate E4BUFVB
+[36m[K--[m[K
+Height: 5'5"
+Weight: 143 lbs
+
+License Plate L3373U9
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Miranda Mulligan
+Height: 6'6"
+Weight: 156 lbs
+
+License Plate XDI2UCE
+[36m[K--[m[K
+Height: 5'1"
+Weight: 176 lbs
+
+License Plate 0P4HS48
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Martin Webster
+Height: 5'0"
+Weight: 189 lbs
+
+License Plate 75UMJFV
+[36m[K--[m[K
+Height: 5'1"
+Weight: 145 lbs
+
+License Plate VM4T19R
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Marzia Novikau
+Height: 5'9"
+Weight: 222 lbs
+
+License Plate K1H73VR
+[36m[K--[m[K
+Height: 6'4"
+Weight: 187 lbs
+
+License Plate 104BVQM
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Mayuko Eckermann
+Height: 5'4"
+Weight: 198 lbs
+
+License Plate DGBHMJJ
+[36m[K--[m[K
+Height: 5'7"
+Weight: 149 lbs
+
+License Plate L8JIEQ1
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Suzana Teutenberg
+Height: 5'8"
+Weight: 152 lbs
+
+License Plate 6AUTPGG
+[36m[K--[m[K
+Height: 6'1"
+Weight: 151 lbs
+
+License Plate RWM24Z6
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Madias Jeffery
+Height: 5'0"
+Weight: 155 lbs
+
+License Plate V1SRYWM
+[36m[K--[m[K
+Height: 5'6"
+Weight: 211 lbs
+
+License Plate H8JJWS9
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Cesar Chen
+Height: 6'4"
+Weight: 237 lbs
+
+License Plate GFXEFEZ
+[36m[K--[m[K
+Height: 6'3"
+Weight: 235 lbs
+
+License Plate RQEDXRL
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Phillipp Al-Mashhadani
+Height: 5'3"
+Weight: 250 lbs
+
+License Plate VSQY5DJ
+[36m[K--[m[K
+Height: 5'2"
+Weight: 133 lbs
+
+License Plate IR1ALIR
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Aly Hilton
+Height: 5'9"
+Weight: 239 lbs
+
+License Plate ZOI9WDO
+[36m[K--[m[K
+Height: 6'3"
+Weight: 200 lbs
+
+License Plate HBKA9SS
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Takayuki Dundar
+Height: 6'3"
+Weight: 179 lbs
+
+License Plate BTTL7F4
+[36m[K--[m[K
+Height: 5'2"
+Weight: 206 lbs
+
+License Plate YMLZEAD
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Mikaela Iwao
+Height: 6'1"
+Weight: 197 lbs
+
+License Plate J9A37A2
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Alistair McGeorge
+Height: 5'6"
+Weight: 244 lbs
+
+License Plate KZGYUFC
+[36m[K--[m[K
+Height: 6'2"
+Weight: 191 lbs
+
+License Plate IBC6W97
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Vasyl Geijer
+Height: 5'3"
+Weight: 206 lbs
+
+License Plate 4V4BHL6
+[36m[K--[m[K
+Height: 5'7"
+Weight: 161 lbs
+
+License Plate 2SU2ZQL
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Anna Hosking
+Height: 5'7"
+Weight: 222 lbs
+
+License Plate 2ZRJ974
+[36m[K--[m[K
+Height: 5'6"
+Weight: 171 lbs
+
+License Plate R7BH2IA
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Annari Simmonds
+Height: 5'10"
+Weight: 184 lbs
+
+License Plate RWBX2YN
+[36m[K--[m[K
+Height: 5'2"
+Weight: 137 lbs
+
+License Plate KS3T7WG
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Angela Belmonte
+Height: 5'3"
+Weight: 167 lbs
+
+License Plate 733FCT6
+[36m[K--[m[K
+Height: 5'1"
+Weight: 203 lbs
+
+License Plate L9S6LOP
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Malin Zhang
+Height: 5'4"
+Weight: 174 lbs
+
+License Plate QC3JV7S
+[36m[K--[m[K
+Height: 6'3"
+Weight: 243 lbs
+
+License Plate 8371Y2J
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Mario Husseiny
+Height: 5'1"
+Weight: 212 lbs
+
+License Plate JHB4F1W
+[36m[K--[m[K
+Height: 6'3"
+Weight: 153 lbs
+
+License Plate 5ZMZRK7
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Hakim Svennerstal
+Height: 5'7"
+Weight: 132 lbs
+
+License Plate QB2UKZ4
+[36m[K--[m[K
+Height: 5'0"
+Weight: 177 lbs
+
+License Plate PAOZMFL
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Hansle Plesnieks
+Height: 6'3"
+Weight: 250 lbs
+
+License Plate VRQ4M13
+[36m[K--[m[K
+Height: 5'2"
+Weight: 239 lbs
+
+License Plate L337369
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+
+License Plate HYPVZ7R
+[36m[K--[m[K
+Height: 5'1"
+Weight: 195 lbs
+
+License Plate PMU3J9P
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Witthaya Cragg
+Height: 6'2"
+Weight: 162 lbs
+
+License Plate 0WGYWV4
+[36m[K--[m[K
+Height: 5'9"
+Weight: 225 lbs
+
+License Plate 2D7PIDM
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Joanne Tankeeva
+Height: 5'8"
+Weight: 169 lbs
+
+License Plate OOZ0BB4
+[36m[K--[m[K
+Height: 6'2"
+Weight: 231 lbs
+
+License Plate W9T6IS6
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Ara Hashim
+Height: 5'1"
+Weight: 154 lbs
+
+License Plate M5E9FDQ
+[36m[K--[m[K
+Height: 5'7"
+Weight: 216 lbs
+
+License Plate F3CSJY8
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Kristina Hochstrasser
+Height: 5'9"
+Weight: 216 lbs
+
+License Plate VDF87Y5
+[36m[K--[m[K
+Height: 5'9"
+Weight: 193 lbs
+
+License Plate UJOWCRT
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Yukari Tanaka
+Height: 5'5"
+Weight: 157 lbs
+
+License Plate PCAKI7H
+[36m[K--[m[K
+Height: 5'6"
+Weight: 137 lbs
+
+License Plate XBRY8LF
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Kathleen Jo
+Height: 5'11"
+Weight: 248 lbs
+
+License Plate 8W5UMEE
+[36m[K--[m[K
+Height: 5'9"
+Weight: 232 lbs
+
+License Plate RCS0KSV
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Raman Nikolaev
+Height: 5'8"
+Weight: 143 lbs
+
+License Plate 2MRUM59
+[36m[K--[m[K
+Height: 6'0"
+Weight: 156 lbs
+
+License Plate CS0JE96
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Zamandosi Chuang
+Height: 5'4"
+Weight: 186 lbs
+
+License Plate GA3IORQ
+[36m[K--[m[K
+Height: 5'3"
+Weight: 180 lbs
+
+License Plate 2U77IH2
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Olga Brize
+Height: 6'0"
+Weight: 198 lbs
+
+License Plate 4RZAGID
+[36m[K--[m[K
+Height: 6'3"
+Weight: 203 lbs
+
+License Plate IC3L9QB
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Silvia Wambach
+Height: 5'8"
+Weight: 238 lbs
+
+License Plate PUAK2ZB
+[36m[K--[m[K
+Height: 6'4"
+Weight: 167 lbs
+
+License Plate 63NCG0U
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Alberto Pedersen
+Height: 6'4"
+Weight: 247 lbs
+
+License Plate GY676AK
+[36m[K--[m[K
+Height: 6'3"
+Weight: 137 lbs
+
+License Plate L337DV9
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+
+License Plate G9J35EZ
+[36m[K--[m[K
+Height: 5'10"
+Weight: 218 lbs
+
+License Plate K9HQDXP
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Hanna Mironcic
+Height: 5'8"
+Weight: 181 lbs
+
+License Plate 4XPMDTN
+[36m[K--[m[K
+Height: 5'3"
+Weight: 229 lbs
+
+License Plate B7T5JBJ
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Luisa Barros
+Height: 5'6"
+Weight: 220 lbs
+
+License Plate TSBMA5Q
+[36m[K--[m[K
+Height: 5'7"
+Weight: 168 lbs
+
+License Plate 79W21TN
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Joel Simon
+Height: 6'3"
+Weight: 139 lbs
+
+License Plate IPE7E44
+[36m[K--[m[K
+Height: 5'3"
+Weight: 245 lbs
+
+License Plate VHKSL82
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Mansur Engleder
+Height: 6'2"
+Weight: 135 lbs
+
+License Plate H1S97UK
+[36m[K--[m[K
+Height: 6'4"
+Weight: 227 lbs
+
+License Plate GDVXLOO
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Mattia Nalbandian
+Height: 6'2"
+Weight: 242 lbs
+
+License Plate YGYW1FP
+[36m[K--[m[K
+Height: 5'2"
+Weight: 240 lbs
+
+License Plate 5HV0783
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Candace Nagga
+Height: 5'4"
+Weight: 169 lbs
+
+License Plate DVM4BF1
+[36m[K--[m[K
+Height: 6'1"
+Weight: 172 lbs
+
+License Plate ETOLYI5
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Carl Nielsen
+Height: 5'11"
+Weight: 146 lbs
+
+License Plate SQ0KHP7
+[36m[K--[m[K
+Height: 5'8"
+Weight: 214 lbs
+
+License Plate 6CXZI94
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Dan Sinker
+Height: 6'5"
+Weight: 192 lbs
+
+License Plate YLTOKIL
+[36m[K--[m[K
+Height: 6'1"
+Weight: 241 lbs
+
+License Plate 5G6EO4I
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Kathleen Schmidt
+Height: 5'3"
+Weight: 139 lbs
+
+License Plate OBQSDBP
+[36m[K--[m[K
+Height: 5'6"
+Weight: 232 lbs
+
+License Plate 3PMHMRI
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Roline Camilo
+Height: 5'11"
+Weight: 211 lbs
+
+License Plate A27GMGN
+[36m[K--[m[K
+Height: 5'3"
+Weight: 227 lbs
+
+License Plate K0EJ545
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Stany Spellerberg
+Height: 6'0"
+Weight: 158 lbs
+
+License Plate KXK1RMQ
+[36m[K--[m[K
+Height: 6'1"
+Weight: 146 lbs
+
+License Plate 4JLCAOM
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Kyeongha Kanerva
+Height: 5'9"
+Weight: 167 lbs
+
+License Plate 6P7932C
+[36m[K--[m[K
+Height: 5'8"
+Weight: 144 lbs
+
+License Plate RFR0JHE
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Ruoqi Nowak
+Height: 5'9"
+Weight: 150 lbs
+
+License Plate 82RCZCF
+[36m[K--[m[K
+Height: 5'10"
+Weight: 209 lbs
+
+License Plate FWL31K2
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Jessica Durasek
+Height: 5'8"
+Weight: 193 lbs
+
+License Plate F2V5QI0
+[36m[K--[m[K
+Height: 5'4"
+Weight: 164 lbs
+
+License Plate 7BECTX5
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Ahmed Magdanis
+Height: 5'9"
+Weight: 158 lbs
+
+License Plate E9JGO52
+[36m[K--[m[K
+Height: 5'0"
+Weight: 229 lbs
+
+License Plate X059MKH
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Jill Magdy
+Height: 5'4"
+Weight: 214 lbs
+
+License Plate A5PPI60
+[36m[K--[m[K
+Height: 5'7"
+Weight: 136 lbs
+
+License Plate 0TE5U62
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Lyubov Gunnewijk
+Height: 6'0"
+Weight: 230 lbs
+
+License Plate VOSWV67
+[36m[K--[m[K
+Height: 6'1"
+Weight: 183 lbs
+
+License Plate TZIDD2K
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Annika Stanning
+Height: 5'5"
+Weight: 215 lbs
+
+License Plate MBM42OP
+[36m[K--[m[K
+Height: 6'4"
+Weight: 229 lbs
+
+License Plate UJ25PN4
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Johan Arvaniti
+Height: 6'1"
+Weight: 210 lbs
+
+License Plate CA2YZ2T
+[36m[K--[m[K
+Height: 6'4"
+Weight: 148 lbs
+
+License Plate ZZ1SA08
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Carles Solesbury
+Height: 5'5"
+Weight: 206 lbs
+
+License Plate IO1VCL0
+[36m[K--[m[K
+Height: 5'2"
+Weight: 184 lbs
+
+License Plate 3OH3RSS
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Charles M'rabet
+Height: 5'7"
+Weight: 194 lbs
+
+License Plate O4CFL92
+[36m[K--[m[K
+Height: 5'10"
+Weight: 176 lbs
+
+License Plate O1J02SR
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Robert Kraljev
+Height: 5'5"
+Weight: 148 lbs
+
+License Plate KNS2BW9
+[36m[K--[m[K
+Height: 5'11"
+Weight: 229 lbs
+
+License Plate S3J27BT
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Francena Savchenko
+Height: 5'8"
+Weight: 192 lbs
+
+License Plate 30M73PZ
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Roderick Atari
+Height: 5'7"
+Weight: 160 lbs
+
+License Plate 94DYZKM
+[36m[K--[m[K
+Height: 5'8"
+Weight: 140 lbs
+
+License Plate 3GYQF57
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Robert Dent
+Height: 6'2"
+Weight: 191 lbs
+
+License Plate SI04E8C
+[36m[K--[m[K
+Height: 5'11"
+Weight: 178 lbs
+
+License Plate SNXBIBI
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Sergey Dahlberg
+Height: 5'0"
+Weight: 138 lbs
+
+License Plate K5PCCM9
+[36m[K--[m[K
+Height: 5'8"
+Weight: 172 lbs
+
+License Plate YTGTA5R
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Jacob Harris
+Height: 5'5"
+Weight: 224 lbs
+
+License Plate D6XBA8R
+[36m[K--[m[K
+Height: 5'8"
+Weight: 150 lbs
+
+License Plate O1CVQHH
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Alan Cerches
+Height: 5'3"
+Weight: 175 lbs
+
+License Plate KQ1V7IZ
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Ebrahim Maeyens
+Height: 5'7"
+Weight: 248 lbs
+
+License Plate C11NAV3
+[36m[K--[m[K
+Height: 5'10"
+Weight: 160 lbs
+
+License Plate M0NGUKP
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Ferdinand Clair
+Height: 6'3"
+Weight: 139 lbs
+
+License Plate L77GYRP
+[36m[K--[m[K
+Height: 5'9"
+Weight: 215 lbs
+
+License Plate O0V1RWF
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Nicholas Nechita
+Height: 5'0"
+Weight: 217 lbs
+
+License Plate BXUHD7C
+[36m[K--[m[K
+Height: 5'8"
+Weight: 196 lbs
+
+License Plate IQSY6SH
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Olga Mekic
+Height: 6'3"
+Weight: 130 lbs
+
+License Plate PDKM5J2
+[36m[K--[m[K
+Height: 6'0"
+Weight: 135 lbs
+
+License Plate PU993PJ
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Marc Ivezic
+Height: 5'8"
+Weight: 234 lbs
+
+License Plate RBX0DSD
+[36m[K--[m[K
+Height: 5'3"
+Weight: 151 lbs
+
+License Plate HPQAWRF
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Derek Kazanin
+Height: 5'8"
+Weight: 186 lbs
+
+License Plate W1F6Y9J
+[36m[K--[m[K
+Height: 5'4"
+Weight: 131 lbs
+
+License Plate ULRRYTE
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Maria Choi
+Height: 5'11"
+Weight: 135 lbs
+
+License Plate IAGSR4O
+[36m[K--[m[K
+Height: 5'2"
+Weight: 193 lbs
+
+License Plate 58SWJKO
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Tania Silva
+Height: 5'9"
+Weight: 198 lbs
+
+License Plate WPULV7L
+[36m[K--[m[K
+Height: 5'7"
+Weight: 175 lbs
+
+License Plate QU96WTK
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Yage Bruno
+Height: 6'1"
+Weight: 224 lbs
+
+License Plate DWVVBK6
+[36m[K--[m[K
+Height: 5'3"
+Weight: 167 lbs
+
+License Plate 08653EX
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Nina Mascinskas
+Height: 6'2"
+Weight: 200 lbs
+
+License Plate SXLE7CN
+[36m[K--[m[K
+Height: 6'3"
+Weight: 250 lbs
+
+License Plate R2SRE9G
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Hyok Martinez
+Height: 5'2"
+Weight: 187 lbs
+
+License Plate 2CIMNEA
+[36m[K--[m[K
+Height: 5'2"
+Weight: 172 lbs
+
+License Plate ZMNKHU2
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Hiroki Klokov
+Height: 6'0"
+Weight: 142 lbs
+
+License Plate F0Z0L5U
+[36m[K--[m[K
+Height: 6'3"
+Weight: 150 lbs
+
+License Plate 4W0V67V
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Rushlee Krsmanovic
+Height: 5'3"
+Weight: 175 lbs
+
+License Plate LULK0S7
+[36m[K--[m[K
+Height: 5'6"
+Weight: 240 lbs
+
+License Plate 47KKS4H
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Enia Esterhuizen
+Height: 5'7"
+Weight: 206 lbs
+
+License Plate HES6J2B
+[36m[K--[m[K
+Height: 6'3"
+Weight: 215 lbs
+
+License Plate 00RGAL8
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Adam Ruday
+Height: 5'1"
+Weight: 148 lbs
+
+License Plate THJF682
+[36m[K--[m[K
+Height: 5'3"
+Weight: 165 lbs
+
+License Plate 5F0GRX0
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Myungshin Forgesson
+Height: 5'2"
+Weight: 191 lbs
+
+License Plate VT5LDYM
+[36m[K--[m[K
+Height: 5'7"
+Weight: 225 lbs
+
+License Plate A6SN11E
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Iryna Prieto
+Height: 5'10"
+Weight: 231 lbs
+
+License Plate BM98DR1
+[36m[K--[m[K
+Height: 6'4"
+Weight: 139 lbs
+
+License Plate PZ6Z32Z
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Adelinde Mangold
+Height: 5'10"
+Weight: 177 lbs
+
+License Plate WZ1MNQ1
+[36m[K--[m[K
+Height: 5'9"
+Weight: 218 lbs
+
+License Plate OIR13D6
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Victor Kondo
+Height: 5'11"
+Weight: 238 lbs
+
+License Plate B3B1UZY
+[36m[K--[m[K
+Height: 5'3"
+Weight: 166 lbs
+
+License Plate UC1NG2N
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Svenja Marennikova
+Height: 5'3"
+Weight: 194 lbs
+
+License Plate 4H8NW5Z
+[36m[K--[m[K
+Height: 6'1"
+Weight: 181 lbs
+
+License Plate DWP0FEM
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Robin Padilla
+Height: 6'1"
+Weight: 152 lbs
+
+License Plate OWB934B
+[36m[K--[m[K
+Height: 6'3"
+Weight: 146 lbs
+
+License Plate 5ZHI9KW
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Vittoria Lima
+Height: 6'3"
+Weight: 198 lbs
+
+License Plate 5IBN8W0
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Fortunato Deng
+Height: 6'4"
+Weight: 166 lbs
+
+License Plate 6AWQJTS
+[36m[K--[m[K
+Height: 6'4"
+Weight: 183 lbs
+
+License Plate RX82D2J
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Ryoko Jesien
+Height: 5'7"
+Weight: 207 lbs
+
+License Plate DOMSQXY
+[36m[K--[m[K
+Height: 6'0"
+Weight: 232 lbs
+
+License Plate 7PN696D
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Lei Fuente
+Height: 5'6"
+Weight: 183 lbs
+
+License Plate 3TFEQZ1
+[36m[K--[m[K
+Height: 5'3"
+Weight: 134 lbs
+
+License Plate JWKBZDC
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Kwan Scherer
+Height: 5'1"
+Weight: 158 lbs
+
+License Plate B2WPZM6
+[36m[K--[m[K
+Height: 6'0"
+Weight: 180 lbs
+
+License Plate M2FGN6A
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Hyobi Magnini
+Height: 5'6"
+Weight: 135 lbs
+
+License Plate POQ280B
+[36m[K--[m[K
+Height: 5'11"
+Weight: 247 lbs
+
+License Plate LQAL9TW
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Jerome Pikkarainen
+Height: 6'2"
+Weight: 143 lbs
+
+License Plate EW7RFRE
+[36m[K--[m[K
+Height: 5'1"
+Weight: 245 lbs
+
+License Plate A4GZSZF
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Min-Jae Piedade
+Height: 5'6"
+Weight: 216 lbs
+
+License Plate IXXE68S
+[36m[K--[m[K
+Height: 5'8"
+Weight: 233 lbs
+
+License Plate D81PNT0
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Marharyta Willmott
+Height: 6'0"
+Weight: 159 lbs
+
+License Plate W3B2SYH
+[36m[K--[m[K
+Height: 5'7"
+Weight: 232 lbs
+
+License Plate REFD58K
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Dina Hwang
+Height: 6'1"
+Weight: 211 lbs
+
+License Plate Y5V8AIM
+[36m[K--[m[K
+Height: 6'4"
+Weight: 192 lbs
+
+License Plate 5X5XZK1
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Moses Sihame
+Height: 5'1"
+Weight: 196 lbs
+
+License Plate VAOG31Z
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Tanoh Mehari
+Height: 5'5"
+Weight: 197 lbs
+
+License Plate HB0CGGZ
+[36m[K--[m[K
+Height: 6'0"
+Weight: 167 lbs
+
+License Plate K5RJG8X
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Francesco Boesen
+Height: 5'5"
+Weight: 162 lbs
+
+License Plate 2WZWI79
+[36m[K--[m[K
+Height: 5'9"
+Weight: 152 lbs
+
+License Plate 3WHAVHV
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Gyujin Scanlan
+Height: 6'0"
+Weight: 211 lbs
+
+License Plate GO6C9PR
+[36m[K--[m[K
+Height: 6'2"
+Weight: 188 lbs
+
+License Plate NSUTSKJ
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Danylo Aguiar
+Height: 6'3"
+Weight: 159 lbs
+
+License Plate HOKAI6O
+[36m[K--[m[K
+Height: 6'3"
+Weight: 199 lbs
+
+License Plate VWK2JYQ
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Kimberley Obiang
+Height: 5'8"
+Weight: 197 lbs
+
+License Plate ZPRC11Y
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Dobrivoje Mogawane
+Height: 5'7"
+Weight: 218 lbs
+
+License Plate QBE5GXI
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: James Pohrebnyak
+Height: 5'11"
+Weight: 134 lbs
+
+License Plate RK7RGGZ
+[36m[K--[m[K
+Height: 6'1"
+Weight: 180 lbs
+
+License Plate 5A2U1OQ
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Emmanuel Montoya
+Height: 5'4"
+Weight: 137 lbs
+
+License Plate QYM41Y5
+[36m[K--[m[K
+Height: 5'11"
+Weight: 204 lbs
+
+License Plate QNXDG16
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Tatyana Wang
+Height: 5'5"
+Weight: 195 lbs
+
+License Plate 8ORBSEN
+[36m[K--[m[K
+Height: 5'9"
+Weight: 163 lbs
+
+License Plate CW4F5HX
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Mie Callahan
+Height: 5'2"
+Weight: 223 lbs
+
+License Plate ZL6R7Z8
+[36m[K--[m[K
+Height: 6'1"
+Weight: 151 lbs
+
+License Plate CZCVZOG
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Maria Yim
+Height: 5'10"
+Weight: 228 lbs
+
+License Plate JNQVMGP
+[36m[K--[m[K
+Height: 5'6"
+Weight: 150 lbs
+
+License Plate 28XRG6U
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Petr Waterfield
+Height: 5'2"
+Weight: 170 lbs
+
+License Plate TWGSQBP
+[36m[K--[m[K
+Height: 5'3"
+Weight: 133 lbs
+
+License Plate 81PLS7R
+Make: Volkswagen
+Color: [01;31m[KBlue[m[K
+Owner: Giovanni Kovacevic
+Height: 6'1"
+Weight: 182 lbs
+
+License Plate 4X03MRL
+[36m[K--[m[K
+Height: 5'4"
+Weight: 200 lbs
+
+License Plate P85VX4Q
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Sebastien Pryiemka
+Height: 5'2"
+Weight: 179 lbs
+
+License Plate OWFMXT9
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Kelley Nurmagomedov
+Height: 5'9"
+Weight: 203 lbs
+
+License Plate 282X25E
+[36m[K--[m[K
+Height: 5'11"
+Weight: 175 lbs
+
+License Plate B578TAF
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Darya Dorado
+Height: 5'2"
+Weight: 179 lbs
+
+License Plate 075J8F2
+[36m[K--[m[K
+Height: 6'0"
+Weight: 213 lbs
+
+License Plate BWH22KF
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Matthew Jamal
+Height: 6'0"
+Weight: 160 lbs
+
+License Plate ZR3K4OF
+[36m[K--[m[K
+Height: 6'0"
+Weight: 198 lbs
+
+License Plate D9YNQUO
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Maher Vos
+Height: 5'2"
+Weight: 225 lbs
+
+License Plate U0Y4CGD
+[36m[K--[m[K
+Height: 5'7"
+Weight: 148 lbs
+
+License Plate W17S50B
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Marie-Pier Schultze
+Height: 5'9"
+Weight: 248 lbs
+
+License Plate CI3DD1U
+[36m[K--[m[K
+Height: 5'11"
+Weight: 176 lbs
+
+License Plate L3375A9
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+
+License Plate SEZHWM5
+[36m[K--[m[K
+Height: 5'8"
+Weight: 189 lbs
+
+License Plate 8ATVVJG
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Mona Taibi
+Height: 6'3"
+Weight: 227 lbs
+
+License Plate 86NWJNV
+[36m[K--[m[K
+Height: 5'2"
+Weight: 156 lbs
+
+License Plate SL8G0YP
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Haris Sinclair
+Height: 6'2"
+Weight: 187 lbs
+
+License Plate ZDED519
+[36m[K--[m[K
+Height: 5'11"
+Weight: 157 lbs
+
+License Plate DIKQ4JA
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Kirani Kalargaris
+Height: 6'4"
+Weight: 228 lbs
+
+License Plate 97BM62Q
+[36m[K--[m[K
+Height: 5'6"
+Weight: 138 lbs
+
+License Plate GPY49PV
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Georgios Gigli
+Height: 5'4"
+Weight: 163 lbs
+
+License Plate Z36F8F7
+[36m[K--[m[K
+Height: 5'3"
+Weight: 219 lbs
+
+License Plate YVX1WEI
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Brad Ogimi
+Height: 5'7"
+Weight: 133 lbs
+
+License Plate WJZ6XGZ
+[36m[K--[m[K
+Height: 6'3"
+Weight: 244 lbs
+
+License Plate NBA9T5Z
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Ryan Ovtcharov
+Height: 5'9"
+Weight: 243 lbs
+
+License Plate X69YBIJ
+[36m[K--[m[K
+Height: 6'2"
+Weight: 165 lbs
+
+License Plate VY5156X
+Make: Fiat
+Color: [01;31m[KBlue[m[K
+Owner: Lei Vican
+Height: 6'1"
+Weight: 204 lbs
+
+License Plate GU3J92N
+[36m[K--[m[K
+Height: 5'11"
+Weight: 162 lbs
+
+License Plate JOZGQQS
+Make: Nissan
+Color: [01;31m[KBlue[m[K
+Owner: Gilles Jang
+Height: 5'4"
+Weight: 185 lbs
+
+License Plate 133YE37
+[36m[K--[m[K
+Height: 5'0"
+Weight: 197 lbs
+
+License Plate TAC5KR0
+Make: Volvo
+Color: [01;31m[KBlue[m[K
+Owner: Nikola Kadhi
+Height: 5'7"
+Weight: 131 lbs
+
+License Plate H1T3C60
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Iryna Radovic
+Height: 5'9"
+Weight: 146 lbs
+
+License Plate OTBE2ZV
+[36m[K--[m[K
+Height: 5'4"
+Weight: 135 lbs
+
+License Plate R5RPTHC
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Asumi Colo
+Height: 6'1"
+Weight: 189 lbs
+
+License Plate KZGOQSC
+[36m[K--[m[K
+Height: 5'9"
+Weight: 240 lbs
+
+License Plate 8O6MSPD
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Samira Grubisic
+Height: 5'11"
+Weight: 204 lbs
+
+License Plate 1QOYBYC
+[36m[K--[m[K
+Height: 5'9"
+Weight: 201 lbs
+
+License Plate V1H03DS
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Fredy Melis
+Height: 6'1"
+Weight: 172 lbs
+
+License Plate PC3O01J
+[36m[K--[m[K
+Height: 6'2"
+Weight: 212 lbs
+
+License Plate VJK4O32
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Darae Charlos
+Height: 6'2"
+Weight: 188 lbs
+
+License Plate SS8HXLI
+[36m[K--[m[K
+Height: 5'9"
+Weight: 193 lbs
+
+License Plate 5I03D52
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Steve Mun
+Height: 6'2"
+Weight: 214 lbs
+
+License Plate 62MV0O2
+[36m[K--[m[K
+Height: 5'4"
+Weight: 132 lbs
+
+License Plate RW0WTSZ
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Marian Jager
+Height: 6'1"
+Weight: 210 lbs
+
+License Plate 8Y5GTAC
+[36m[K--[m[K
+Height: 5'4"
+Weight: 142 lbs
+
+License Plate 6424SBS
+Make: Toyota
+Color: [01;31m[KBlue[m[K
+Owner: Vera Gerrand
+Height: 6'0"
+Weight: 130 lbs
+
+License Plate K0VXQKQ
+[36m[K--[m[K
+Height: 5'8"
+Weight: 217 lbs
+
+License Plate D8TMMNL
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Mohammad Jang
+Height: 5'5"
+Weight: 164 lbs
+
+License Plate CLKEFH7
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Lynsey Bailey
+Height: 5'1"
+Weight: 135 lbs
+
+License Plate 1I4LKW0
+[36m[K--[m[K
+Height: 5'11"
+Weight: 142 lbs
+
+License Plate M2RY60M
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Omar Canitez
+Height: 6'0"
+Weight: 151 lbs
+
+License Plate O8W7XG0
+[36m[K--[m[K
+Height: 5'1"
+Weight: 237 lbs
+
+License Plate Z7AIS99
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Ingrid Hayes
+Height: 5'10"
+Weight: 131 lbs
+
+License Plate ML74I35
+[36m[K--[m[K
+Height: 5'11"
+Weight: 184 lbs
+
+License Plate TV33C4X
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Marin Absalon
+Height: 5'10"
+Weight: 160 lbs
+
+License Plate TGD9ZQU
+[36m[K--[m[K
+Height: 6'0"
+Weight: 171 lbs
+
+License Plate 2QW6ML7
+Make: BMW
+Color: [01;31m[KBlue[m[K
+Owner: Rodrigo Burke
+Height: 5'10"
+Weight: 137 lbs
+
+License Plate FOXXY5T
+[36m[K--[m[K
+Height: 5'1"
+Weight: 172 lbs
+
+License Plate VXMB8JU
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Diletta Sukochev
+Height: 6'4"
+Weight: 133 lbs
+
+License Plate I77PXFE
+[36m[K--[m[K
+Height: 5'6"
+Weight: 137 lbs
+
+License Plate FBV80RZ
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Ewelina Safronov
+Height: 5'4"
+Weight: 176 lbs
+
+License Plate TDB1ZUA
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Adnan Brendel
+Height: 5'10"
+Weight: 179 lbs
+
+License Plate C8V3M44
+[36m[K--[m[K
+Height: 6'1"
+Weight: 169 lbs
+
+License Plate FU4S316
+Make: Dodge
+Color: [01;31m[KBlue[m[K
+Owner: Jin Walton
+Height: 6'0"
+Weight: 199 lbs
+
+License Plate WAC96U3
+[36m[K--[m[K
+Height: 5'2"
+Weight: 241 lbs
+
+License Plate EKLTQFW
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Byungchul Bouqantar
+Height: 5'5"
+Weight: 242 lbs
+
+License Plate GV7QCUW
+[36m[K--[m[K
+Height: 6'1"
+Weight: 224 lbs
+
+License Plate L337WR9
+Make: Honda
+Color: [01;31m[KBlue[m[K
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+License Plate 1FEDUD0
+[36m[K--[m[K
+Height: 5'5"
+Weight: 176 lbs
+
+License Plate GUS401R
+Make: Ford
+Color: [01;31m[KBlue[m[K
+Owner: Pia Svensson
+Height: 5'10"
+Weight: 166 lbs
+
+License Plate AIQ6XBH
+[36m[K--[m[K
+Height: 5'8"
+Weight: 246 lbs
+
+License Plate 08SUI98
+Make: Mazda
+Color: [01;31m[KBlue[m[K
+Owner: Marta Marjanac
+Height: 5'10"
+Weight: 229 lbs
+
+License Plate YJABXY0
+[36m[K--[m[K
+Height: 5'0"
+Weight: 219 lbs
+
+License Plate SXUQT29
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Ahmad Erceg
+Height: 6'1"
+Weight: 245 lbs
+
+License Plate VLHTR98
+Make: Subaru
+Color: [01;31m[KBlue[m[K
+Owner: Ivan Hollstein
+Height: 6'2"
+Weight: 153 lbs
+
+License Plate USQ78FJ
+[36m[K--[m[K
+Height: 6'1"
+Weight: 239 lbs
+
+License Plate LWEJK6Z
+Make: Jaguar
+Color: [01;31m[KBlue[m[K
+Owner: Ioannis Tkach
+Height: 5'6"
+Weight: 188 lbs
+
+License Plate TYUBN4Z
+[36m[K--[m[K
+Height: 6'4"
+Weight: 143 lbs
+
+License Plate 74RBT36
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Elia Mota
+Height: 5'3"
+Weight: 156 lbs
+
+License Plate 4J2G48B
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Ashley Saramotins
+Height: 5'11"
+Weight: 191 lbs
+
+License Plate 46WK3M2
+[36m[K--[m[K
+Height: 5'6"
+Weight: 147 lbs
+
+License Plate G24WVKX
+Make: Audi
+Color: [01;31m[KBlue[m[K
+Owner: Sophie Ghasemi
+Height: 5'2"
+Weight: 216 lbs
+
+License Plate B6VYIO5
+[36m[K--[m[K
+Height: 6'1"
+Weight: 216 lbs
+
+License Plate V75UXCP
+Make: Hyundai
+Color: [01;31m[KBlue[m[K
+Owner: Louis Maneza
+Height: 5'10"
+Weight: 137 lbs
+
+License Plate BXDMXWW
+Make: Cadillac
+Color: [01;31m[KBlue[m[K
+Owner: Almensh Tuara
+Height: 5'9"
+Weight: 212 lbs
+
+License Plate TEBJK3X
+[36m[K--[m[K
+Height: 5'9"
+Weight: 177 lbs
+
+License Plate NVGRKG4
+Make: Jeep
+Color: [01;31m[KBlue[m[K
+Owner: Henna Pertile
+Height: 5'10"
+Weight: 157 lbs
+
+License Plate EBI291P
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ [H[2J[klambert@hpc-class mystery]$ grep -C blue[K[K[K[K5 "Blue" vehicles >BluCars[K[K[K[KeCars.txt
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep -c[KC 5 "Honda" BlueCars.txt 
+--
+Height: 5'3"
+Weight: 250 lbs
+
+License Plate QOBSFKL
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Aurelie Kirkham
+Height: 5'11"
+Weight: 210 lbs
+
+[36m[K--[m[K
+--
+Height: 5'0"
+Weight: 171 lbs
+
+License Plate KCKGOH3
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Vladislava Tichelt
+Height: 5'7"
+Weight: 212 lbs
+
+[36m[K--[m[K
+--
+Height: 6'3"
+Weight: 179 lbs
+
+License Plate K38L65K
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Dimitri Kim
+Height: 5'11"
+Weight: 166 lbs
+
+[36m[K--[m[K
+--
+Height: 5'10"
+Weight: 156 lbs
+
+License Plate FF6QR6A
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Kurt Fayez
+Height: 5'2"
+Weight: 132 lbs
+
+[36m[K--[m[K
+--
+Height: 5'4"
+Weight: 245 lbs
+
+License Plate ZOI4DTW
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Levan Ingram
+Height: 5'11"
+Weight: 176 lbs
+
+[36m[K--[m[K
+--
+Height: 5'0"
+Weight: 214 lbs
+
+License Plate L337QE9
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+
+[36m[K--[m[K
+--
+Height: 5'10"
+Weight: 163 lbs
+
+License Plate CQQ9BIT
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Martyna Kirkbride
+Height: 6'3"
+Weight: 183 lbs
+
+[36m[K--[m[K
+--
+Height: 5'7"
+Weight: 172 lbs
+
+License Plate 68CVHT5
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Emily Chow
+Height: 5'7"
+Weight: 191 lbs
+
+[36m[K--[m[K
+--
+Height: 5'1"
+Weight: 183 lbs
+
+License Plate KFQHMVH
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Lubomir Frank
+Height: 6'3"
+Weight: 249 lbs
+
+[36m[K--[m[K
+--
+Height: 5'5"
+Weight: 152 lbs
+
+License Plate 6GONOJY
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Paul Almeida
+Height: 5'2"
+Weight: 184 lbs
+
+[36m[K--[m[K
+--
+Height: 5'1"
+Weight: 199 lbs
+
+License Plate T46S1O8
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Pape Kantarci
+Height: 6'1"
+Weight: 184 lbs
+
+[36m[K--[m[K
+--
+Height: 5'6"
+Weight: 189 lbs
+
+License Plate FFRM7XI
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Chris Keller
+Height: 5'2"
+Weight: 151 lbs
+
+[36m[K--[m[K
+--
+Height: 5'1"
+Weight: 163 lbs
+
+License Plate RLUC9VG
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Muller Nikcevic
+Height: 5'11"
+Weight: 241 lbs
+
+[36m[K--[m[K
+--
+Height: 5'1"
+Weight: 177 lbs
+
+License Plate X4UQ2ON
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Tiff Fehr
+Height: 5'4"
+Weight: 133 lbs
+
+[36m[K--[m[K
+--
+Height: 5'11"
+Weight: 194 lbs
+
+License Plate XUC2VZ6
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Brent Queen
+Height: 5'7"
+Weight: 159 lbs
+
+[36m[K--[m[K
+--
+Height: 5'3"
+Weight: 168 lbs
+
+License Plate O5EPHK2
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Hagos Kempas
+Height: 5'5"
+Weight: 140 lbs
+
+[36m[K--[m[K
+--
+Height: 5'4"
+Weight: 148 lbs
+
+License Plate 6GBK62G
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Ruta Trowbridge
+Height: 5'8"
+Weight: 183 lbs
+
+[36m[K--[m[K
+--
+Height: 5'8"
+Weight: 181 lbs
+
+License Plate L337539
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Aron Pilhofer
+Height: 5'3"
+Weight: 198 lbs
+
+[36m[K--[m[K
+--
+Height: 5'3"
+Weight: 162 lbs
+
+License Plate CPYKOHM
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Dagmara Balla
+Height: 5'3"
+Weight: 194 lbs
+
+[36m[K--[m[K
+Owner: Hiroshi Schuring
+Height: 6'0"
+Weight: 247 lbs
+
+License Plate SJ7V5J3
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Maria Figlioli
+Height: 5'10"
+Weight: 209 lbs
+
+[36m[K--[m[K
+--
+Height: 5'0"
+Weight: 174 lbs
+
+License Plate GY13NEP
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Sholpan Draudvila
+Height: 5'3"
+Weight: 154 lbs
+
+[36m[K--[m[K
+--
+Height: 5'9"
+Weight: 214 lbs
+
+License Plate 5D0T3L7
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Shane Wu
+Height: 5'8"
+Weight: 173 lbs
+
+[36m[K--[m[K
+--
+Height: 6'2"
+Weight: 161 lbs
+
+License Plate SMGEWGB
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Ivan Abdusalomov
+Height: 5'2"
+Weight: 234 lbs
+
+[36m[K--[m[K
+--
+Height: 6'1"
+Weight: 151 lbs
+
+License Plate RWM24Z6
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Madias Jeffery
+Height: 5'0"
+Weight: 155 lbs
+
+[36m[K--[m[K
+--
+Height: 6'3"
+Weight: 235 lbs
+
+License Plate RQEDXRL
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Phillipp Al-Mashhadani
+Height: 5'3"
+Weight: 250 lbs
+
+[36m[K--[m[K
+--
+Height: 5'2"
+Weight: 239 lbs
+
+License Plate L337369
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+
+[36m[K--[m[K
+--
+Height: 6'4"
+Weight: 167 lbs
+
+License Plate 63NCG0U
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Alberto Pedersen
+Height: 6'4"
+Weight: 247 lbs
+
+[36m[K--[m[K
+--
+Height: 6'3"
+Weight: 137 lbs
+
+License Plate L337DV9
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+
+[36m[K--[m[K
+--
+Height: 5'0"
+Weight: 229 lbs
+
+License Plate X059MKH
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Jill Magdy
+Height: 5'4"
+Weight: 214 lbs
+
+[36m[K--[m[K
+--
+Height: 6'4"
+Weight: 139 lbs
+
+License Plate PZ6Z32Z
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Adelinde Mangold
+Height: 5'10"
+Weight: 177 lbs
+
+[36m[K--[m[K
+--
+Height: 5'3"
+Weight: 166 lbs
+
+License Plate UC1NG2N
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Svenja Marennikova
+Height: 5'3"
+Weight: 194 lbs
+
+[36m[K--[m[K
+--
+Height: 5'8"
+Weight: 233 lbs
+
+License Plate D81PNT0
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Marharyta Willmott
+Height: 6'0"
+Weight: 159 lbs
+
+[36m[K--[m[K
+--
+Height: 6'4"
+Weight: 192 lbs
+
+License Plate 5X5XZK1
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Moses Sihame
+Height: 5'1"
+Weight: 196 lbs
+
+[36m[K--[m[K
+--
+Height: 5'6"
+Weight: 150 lbs
+
+License Plate 28XRG6U
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Petr Waterfield
+Height: 5'2"
+Weight: 170 lbs
+
+[36m[K--[m[K
+Owner: Sebastien Pryiemka
+Height: 5'2"
+Weight: 179 lbs
+
+License Plate OWFMXT9
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Kelley Nurmagomedov
+Height: 5'9"
+Weight: 203 lbs
+
+[36m[K--[m[K
+--
+Height: 5'11"
+Weight: 176 lbs
+
+License Plate L3375A9
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+
+[36m[K--[m[K
+--
+Height: 6'2"
+Weight: 212 lbs
+
+License Plate VJK4O32
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Darae Charlos
+Height: 6'2"
+Weight: 188 lbs
+
+[36m[K--[m[K
+Owner: Mohammad Jang
+Height: 5'5"
+Weight: 164 lbs
+
+License Plate CLKEFH7
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Lynsey Bailey
+Height: 5'1"
+Weight: 135 lbs
+
+[36m[K--[m[K
+--
+Height: 5'2"
+Weight: 241 lbs
+
+License Plate EKLTQFW
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Byungchul Bouqantar
+Height: 5'5"
+Weight: 242 lbs
+
+[36m[K--[m[K
+--
+Height: 6'1"
+Weight: 224 lbs
+
+License Plate L337WR9
+Make: [01;31m[KHonda[m[K
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep -C 5 "Honda" BlueCars.txt > BlueHonda.txt
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ [H[2J[klambert@hpc-class mystery]$ grep License Pla[K[K[K[K[K[K[K[K[K[K[K[K -C 5 "License Plate L337![K" BlueHonda.txt 
+--
+--
+Height: 5'0"
+Weight: 214 lbs
+
+[01;31m[KLicense Plate L337[m[KQE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+[36m[K--[m[K
+--
+--
+Height: 5'8"
+Weight: 181 lbs
+
+[01;31m[KLicense Plate L337[m[K539
+Make: Honda
+Color: Blue
+Owner: Aron Pilhofer
+Height: 5'3"
+Weight: 198 lbs
+[36m[K--[m[K
+--
+--
+Height: 5'2"
+Weight: 239 lbs
+
+[01;31m[KLicense Plate L337[m[K369
+Make: Honda
+Color: Blue
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+[36m[K--[m[K
+--
+--
+Height: 6'3"
+Weight: 137 lbs
+
+[01;31m[KLicense Plate L337[m[KDV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+[36m[K--[m[K
+--
+--
+Height: 5'11"
+Weight: 176 lbs
+
+[01;31m[KLicense Plate L337[m[K5A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+[36m[K--[m[K
+--
+--
+Height: 6'1"
+Weight: 224 lbs
+
+[01;31m[KLicense Plate L337[m[KWR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls
+BlueCars.txt  BlueHonda.txt  crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep pe[K[K"Jacqui" people
+[01;31m[KJacqui[m[K Maher	F	40	Andover Road, line 224
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ 
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ G[Kgrep "Jeremy Bowers"|"Joe Germuska" people 
+bash: Joe Germuska: command not found
+grep "JeremyBowers" people
+q 
+grep   "Jeremy Bowers" 	p	eople
+
+i\  ^[
+^[} ]
+^X  ^X
+^Z
+[1]+  Stopped                 grep --color=auto "Jeremy Bowers" | "Joe Germuska" people
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep "Jeremy Bowers" people 
+[01;31m[KJeremy Bowers[m[K	M	34	Dunstable Road, line 284
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep "Joe Gerum[K[Kmuska" people 
+[01;31m[KJoe Germuska[m[K	M	65	Plainfield Street, line 275
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd streets/
+]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ grep[K[K[K[Kless +284 Dunstable_Road 
+[?1049h[?1h=[K:[K22[K88[K44[KSEE INTERVIEW #9620713
+fluffing prodding bolder expounding 
+yearling blasts override dumped graphology 
+extortionists droplets rose ranks unplugs foiling 
+hosteled depth rethinking brews whitish heirloom judging 
+bonkers goatees beholds hairsbreadth pups deride 
+dauphins mythology premisses ameer 
+determinable stepbrother snazziest paternally gloamings 
+psst ruler synagogues polkaing 
+bidden denial mudslide tranquillest preponderate 
+bonnie pennies nighest redder individualizes 
+alternately nutshell unemployed prolongs 
+generating loosening biped minutes nil boarders foghorns 
+undelivered unmoral mambo overworking prepossessing 
+identifiable puerile sassier spreeing ayatollahs 
+smartened disbands teeniest spinier baseboard 
+sherries untiring shunt lone sunglasses angel 
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mDunstable_Road (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ less +275 Plainfield_Street 
+[?1049h[?1h=[K:[K22[K77[K55[KSEE INTERVIEW #29741223
+pheasant astronaut turrets linkages repleting 
+typewriter phenobarbital real bonded 
+non heinously piano umped sadism prejudgments mural trolley 
+rewriting restudy piker juniors mores 
+influentially inhabitable ghettoes 
+reemerges gladly quintupled lineament limping 
+immure unkindly wounds barked rabbit drifted sustain eyeing 
+insetted forefingers ingots steadying boll thank elude 
+derogates tureen freestanding deletion rework 
+distillation informant dromedaries tagging withering 
+shielding weaving laminate expediter temper portals 
+hypnotized devotedly sequentially sepsis settling deplanes 
+bother outsmart lubes detoxifies eulogize 
+overextend wheeziest djinn boasted eeriest loyalest 
+fiery misted neutralization blithest bathes pledged 
+yuletide banjoist underbelly goitre roustabout 
+stimulates ballsiest availing pirouetting 
+panoplies snoozes watersheds unusual quail hided 
+loomed bandanna doodads sputters verging sartorial 
+submits reassured bathroom willingness jugged reformatted 
+populating zing satirizing hopeful polystyrene 
+s fakers lifesaver messiah quarrelled evaluating 
+freeholds dustiest pointers nil whomever dispiriting 
+stropped revisited dope pizzeria reinstatement 
+submitter dieting retrogression servile plateau mingled 
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mPlainfield_Street (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/streets[klambert@hpc-class streets]$ cd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls interviews/
+interview-000296    interview-144873    interview-27042476  interview-3609204   interview-499096    interview-638121    interview-7580872   interview-901645
+interview-00448418  interview-14590717  interview-27504937  interview-36398447  interview-50168425  interview-6417794   interview-77014856  interview-90394637
+interview-00502304  interview-147283    interview-275706    interview-364735    interview-50291987  interview-645385    interview-770439    interview-904020
+interview-005702    interview-15187437  interview-279087    interview-36527398  interview-504687    interview-6553472   interview-77135281  interview-907126
+interview-00617019  interview-15354942  interview-280877    interview-376115    interview-509105    interview-65792229  interview-7791374   interview-9074626
+interview-00805135  interview-1536668   interview-2834518   interview-37747405  interview-5143029   interview-659803    interview-780255    interview-911451
+interview-016463    interview-155049    interview-284560    interview-3804339   interview-514793    interview-66101490  interview-7863761   interview-91673757
+interview-020337    interview-1578206   interview-2846076   interview-3824641   interview-52280505  interview-66282920  interview-789564    interview-917210
+interview-022751    interview-159848    interview-289524    interview-38299069  interview-528044    interview-6643191   interview-791289    interview-9185205
+interview-0234126   interview-16098538  interview-290346    interview-3871205   interview-529706    interview-67279454  interview-79360358  interview-920304
+interview-02422821  interview-1642421   interview-291440    interview-3871242   interview-53318557  interview-673985    interview-79411932  interview-92391023
+interview-0251720   interview-1643440   interview-2922290   interview-38899905  interview-535181    interview-676473    interview-794525    interview-92670500
+interview-03098229  interview-16889008  interview-29316965  interview-3917097   interview-5372865   interview-67790846  interview-7959148   interview-927642
+interview-0315125   interview-17248453  interview-2939888   interview-391811    interview-538900    interview-680549    interview-796439    interview-9332386
+interview-03316077  interview-17343208  interview-296128    interview-39481114  interview-54026669  interview-6808205   interview-79667499  interview-9346061
+interview-034070    interview-174898    interview-29680692  interview-39825862  interview-541518    interview-68195573  interview-79935965  interview-93473333
+interview-0349327   interview-1767435   interview-29741223  interview-40534453  interview-5455315   interview-68488577  interview-7998181   interview-93696502
+interview-04393507  interview-17827186  interview-2976680   interview-40610944  interview-54619323  interview-68764140  interview-8095917   interview-938991
+interview-044492    interview-179719    interview-29838622  interview-409731    interview-54851634  interview-6884359   interview-809922    interview-9408565
+interview-0462097   interview-1811770   interview-2995681   interview-41553314  interview-549055    interview-6894000   interview-812725    interview-94126412
+interview-049721    interview-18193261  interview-301018    interview-416243    interview-55382746  interview-69170457  interview-81443363  interview-9437737
+interview-05297663  interview-1823688   interview-30259493  interview-41814745  interview-55410365  interview-6933068   interview-822576    interview-944493
+interview-06032377  interview-18270219  interview-3049045   interview-4204949   interview-55435298  interview-699607    interview-8245680   interview-9446528
+interview-0613334   interview-18441251  interview-305694    interview-42161907  interview-55477243  interview-70067280  interview-825165    interview-9501580
+interview-066291    interview-1850922   interview-305949    interview-4223536   interview-555536    interview-70199425  interview-82705993  interview-95095182
+interview-071537    interview-1857368   interview-306616    interview-4225866   interview-5581158   interview-703831    interview-831512    interview-95601730
+interview-0732631   interview-1906958   interview-3074127   interview-42396365  interview-55841398  interview-704443    interview-833367    interview-9618669
+interview-07497003  interview-191206    interview-3099757   interview-4262657   interview-55984022  interview-70458099  interview-838259    interview-9620713
+interview-0768255   interview-19300543  interview-312546    interview-42934869  interview-565396    interview-7046684   interview-8387710   interview-9651888
+interview-092423    interview-1933118   interview-3128999   interview-4299898   interview-566707    interview-7066082   interview-8402388   interview-9666149
+interview-0953437   interview-19577850  interview-3140662   interview-4335306   interview-56784802  interview-706620    interview-8421696   interview-97043057
+interview-096267    interview-2058907   interview-31635890  interview-4366523   interview-56892213  interview-707438    interview-8464899   interview-9709892
+interview-102490    interview-210355    interview-3201508   interview-44533008  interview-57236791  interview-708943    interview-84688694  interview-9711852
+interview-109118    interview-218131    interview-322305    interview-4463090   interview-5739404   interview-7103823   interview-849256    interview-9712946
+interview-1108561   interview-221039    interview-32365018  interview-448086    interview-5766907   interview-71186817  interview-85262552  interview-9728756
+interview-114661    interview-223913    interview-324389    interview-45615686  interview-5774468   interview-71226767  interview-8531248   interview-97393699
+interview-11495001  interview-2277882   interview-325611    interview-457117    interview-5782759   interview-71298441  interview-856221    interview-97409610
+interview-116803    interview-229443    interview-32639981  interview-457451    interview-579105    interview-7180973   interview-8586380   interview-980963
+interview-11705111  interview-23167806  interview-32712166  interview-466195    interview-5835471   interview-71993338  interview-861780    interview-982013
+interview-11783660  interview-2326746   interview-331178    interview-4673074   interview-586668    interview-720268    interview-862173    interview-9824821
+interview-11817172  interview-23371263  interview-332596    interview-46773428  interview-58910793  interview-7254073   interview-862717    interview-98912259
+interview-1186827   interview-233800    interview-33399976  interview-47246024  interview-5905106   interview-728181    interview-8631232   interview-9901455
+interview-1205060   interview-2415821   interview-340396    interview-4735823   interview-591273    interview-730123    interview-86395001  interview-9912172
+interview-1250176   interview-243703    interview-34041151  interview-4765278   interview-5993978   interview-73035802  interview-865918    interview-992072
+interview-125204    interview-2481877   interview-342393    interview-476744    interview-60081985  interview-7305678   interview-867999    interview-99643550
+interview-125271    interview-250112    interview-34359897  interview-478217    interview-604403    interview-73585672  interview-8700943   interview-9969223
+interview-1269181   interview-253705    interview-344331    interview-48088300  interview-608607    interview-737609    interview-87126591  interview-999372
+interview-1310392   interview-255531    interview-34690644  interview-48148020  interview-6093093   interview-7422077   interview-871877
+interview-13768464  interview-25582311  interview-347303    interview-483817    interview-618764    interview-74225310  interview-879569
+interview-13889608  interview-25834905  interview-351963    interview-485229    interview-6203192   interview-7469675   interview-8819490
+interview-13920860  interview-259909    interview-353218    interview-4950099   interview-628618    interview-7541406   interview-891720
+interview-1395414   interview-2601508   interview-353467    interview-4961376   interview-63308519  interview-75434722  interview-896668
+interview-141030    interview-26373485  interview-354262    interview-496772    interview-637657    interview-755037    interview-9004767
+interview-14153840  interview-2642139   interview-3588302   interview-498331    interview-637928    interview-75633580  interview-901603
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ cd interviews/
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ less interview-9620713 
+[?1049h[?1h=Home appears to be empty, no answer at the door.
+
+After questioning neighbors, appears that the occupant may have left for a trip recently.
+
+Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.
+[7minterview-9620713 (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ less interview-29741223 
+[?1049h[?1h=Should not be considered a suspect, has no SkyMiles membership and has never been a member of the Museum of Bash History.
+[7minterview-29741223 (END)[27m[K[K[?1l>[?1049l]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ cd mem[K[K[K[K[K[Kls ..
+BlueCars.txt  BlueHonda.txt  crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery/interviews[klambert@hpc-class interviews]$ cd[K[Kcd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls [K[K[Kcd memberships/
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ grep AA[K[K[K "Jre[K[Keremy Bowers [K" AAA
+[01;31m[KJeremy Bowers[m[K
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ grep "Jeremy Bowers" AAA[K[K[K[K DE[Kelta_SkyMiles 
+[01;31m[KJeremy Bowers[m[K
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ grep "Jeremy Bowers" Delta_SkyMiles [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Klo[Ki[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+AAA  AAdvantage  Costco  Delta_SkyMiles  Fitness_Galaxy  Museum_of_Bash_History  REI  Rotary_Club  TCSU_Alumni_Association  Terminal_City_Library  United_MileagePlus
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ lsgrep "Jeremy Bowers" Delta_SkyMiles [K[K[K[K[K[K[K[K[K[K[K[K[K[K[KTw\er[K[K[K[Kerminal_City_Library 
+[01;31m[KJeremy Bowers[m[K
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ grep mus[K[K[K"Jre[K[Keremy Bowers" Museum_of_Bash_History 
+[01;31m[KJeremy Bowers[m[K
+]0;klambert@hpc-class:~/clmystery/mystery/memberships[klambert@hpc-class memberships]$ cd ..
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ ls
+BlueCars.txt  BlueHonda.txt  crimescene  [0m[01;34minterviews[0m  [01;34mmemberships[0m  people  [01;34mstreets[0m  vehicles
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ grep -C 5 "Jeremy Bowers" BlueHonda.txt 
+Weight: 176 lbs
+
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: [01;31m[KJeremy Bowers[m[K
+Height: 6'1"
+Weight: 204 lbs
+
+--
+--
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ exit
+There are stopped jobs.
+]0;klambert@hpc-class:~/clmystery/mystery[klambert@hpc-class mystery]$ D[Kexit
+
+Script done on Wed 22 Sep 2021 01:55:47 PM CDT
